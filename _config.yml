@@ -23,6 +23,6 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:          sarbagyakafle/sarbagyakafle.github.io
+github:          sarbagyakafle.github.io
+  repo:          sarbagyakafle.github.io
 
