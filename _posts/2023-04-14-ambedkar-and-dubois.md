@@ -4,7 +4,9 @@ title: Introducing Hyde
 ---
 South Asians celebrate B. R. Ambedkar’s birthday, April 14, as equity day to pay tribute to his unmatched contribution to uplift and inspire the dalits in India and beyond. On this occasion, I want to look into an instance of transnational understanding and solidarity Ambedkar and Du Bois tried to forge between the USA and South Asia to fight race and caste discrimiation. In 1946, Ambedkar wrote a letter to W. E.B. Du Bois poiting out similarity between the US Racism and Indian casteism. 
 
-> "There is so much similarity between the positions of the Untouchables in India and the Negroes in America that the study of the latter is not only natural but necessary." 
+<div class="message">
+  "There is so much similarity between the positions of the Untouchables in India and the Negroes in America that the study of the latter is not only natural but necessary." .
+</div>
 
 Ambedkar seems to carry on the legacy of Jyotirao Phule who didicated his 1873 book Gulamgiri aka Slavery to the good American people who took ground for the liberty of the enslaved blacks. Phule urged his fellow dalit people in India to draw an inspiration from the American to fight the oppressions of Brahminism. Amebdkar also wanted to follow or adapt the strategeis for justice used by Du Bois for the cause of blacks in the USA for the dalits in India. 
 
