@@ -10,7 +10,7 @@ relative_permalinks:
 title:            Sarbagya Kafle
 tagline:          'A Jekyll theme'
 description:      'rhetoric, lanaguage, literature'
-url:              sarbagyakafle.github.io
+url:              https://github.com/sarbagyakafle/sarbagyakafle.github.io
 baseurl:          /
 
 author:
@@ -22,5 +22,5 @@ paginate:         5
 # Custom vars
 version:          2.1.0
 
-github:          
+github:          sarbagyakafle.github.io
   repo:          https://github.com/sarbagyakafle/sarbagyakafle.github.io
