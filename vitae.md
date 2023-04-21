@@ -2,4 +2,19 @@
 layout: page
 title: Vitae
 ---
-Details coming soon . . . 
+# EDUCATION 
+
+PhD English - University of Louisiana at Lafayette, Fall 2019 - Spring 2024 
+
+MPhil English - Tribhuvan University, Central Department of English, 2014 
+
+MA English - Tribhuvan University, Central Department of English, 2006
+
+BEd English - Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2007.  
+
+BA English & Sociology - Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2003  
+
+
+ 
+
+
