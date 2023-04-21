@@ -8,8 +8,8 @@ relative_permalinks:
 
 # Setup
 title:            Sarbagya Kafle
-tagline:          'A Jekyll theme'
-description:      'Rhetoric, Rritign, and Literature'
+tagline:          'Rhetoric, Writing, and Literature'
+description:      'Rhetoric, Writing, Literature'
 url:              https://sarbagyakafle.github.io
 baseurl:          https://sarbagyakafle.github.io/
 
