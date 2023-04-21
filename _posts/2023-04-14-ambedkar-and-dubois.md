@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Ambedkar and Du Bois
 ---
 South Asians celebrate B. R. Ambedkar’s birthday, April 14, as equity day to pay tribute to his unmatched contribution to uplift and inspire the dalits in India and beyond. On this occasion, I want to look into an instance of transnational understanding and solidarity Ambedkar and Du Bois tried to forge between the USA and South Asia to fight race and caste discrimiation. In 1946, Ambedkar wrote a letter to W. E.B. Du Bois poiting out similarity between the US Racism and Indian casteism. 
 
