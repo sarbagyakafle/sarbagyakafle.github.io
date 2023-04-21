@@ -18,7 +18,7 @@ BA English & Sociology - Tribhuvan University, Makawanpur Multiple Campus, Hetau
 
 2019-Present:	Graduate Teaching Assitsant at University of Louisiana at Lafayette, Department of English.   
 
-2016-Present:	Lecturer in Enlgish at Tribhuvan University, Central Department of English, Kirtipur, Kathmandu, Nepal 
+2016-Present:	Lecturer in Enlgish at Tribhuvan University, Central Department of English, Kirtipur, Nepal 
 
 2017- 2018: Adjunct Professor of English at Pokhara University, IACER, Kathmandu, Nepal. 
 
