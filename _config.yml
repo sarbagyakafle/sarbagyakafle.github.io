@@ -11,7 +11,7 @@ title:            Sarbagya Kafle
 tagline:          'A Jekyll theme'
 description:      'rhetoric, lanaguage, literature'
 url:              https://sarbagyakafle.github.io
-baseurl:          https://sarbagyakafle.github.io/
+baseurl:          /
 
 author:
   name:           'Sarbagya Kafle'
