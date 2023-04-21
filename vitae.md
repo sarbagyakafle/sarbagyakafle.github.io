@@ -44,7 +44,7 @@ BA English & Sociology - Tribhuvan University, Makawanpur Multiple Campus, Hetau
 
 “Flight of Fox from Tale to Screen: Trickster Archetype in Nepalese Folktales and Popular Culture.” 6th International Folklore Congress, organized by Nepali Folklore Society Kathmandu, Nepal, 12-13 May, 2018.  
 
-“Rhythm of Revival and Revelation in the Short Stories of W. B. Yeats and James Joyce.” International Seminar on The Modern Short Story: Tradition and Experiment (MSSTE) University Department of English, Lalit Narayan Mithila University, Darbhanga, India, 30-31 January, 2017.  
+“Rhythm of Revival and Revelation in the Short Stories of W. B. Yeats and James Joyce.” International Seminar on The Modern Short Story: Tradition and Experiment (MSSTE), University Department of English, Lalit Narayan Mithila University, Darbhanga, India, 30-31 January, 2017.  
 
 “(Un) Claimed Body: Beauty and Brave in Devkota’s and ‘Ravan Jatayu Yuddha’.” 36th Annual International Conference of Literary Association of Nepal Dhulikhel, Kavre, Nepal, 1-2 March, 2017. 
 
