@@ -58,6 +58,6 @@ title: VITA
 
     “Rhythm of Revival and Revelation in the Short Stories of W. B. Yeats and James Joyce.” International Seminar on The Modern Short Story: Tradition and Experiment (MSSTE), University Department of English, Lalit Narayan Mithila University, Darbhanga, India, 30-31 January, 2017.  
 
-    “(Un) Claimed Body: Beauty and Brave in Devkota’s and ‘Ravan Jatayu Yuddha’.” 36th Annual International Conference of Literary Association of Nepal Dhulikhel, Kavre, Nepal, 1-2 March, 2017. 
+    “(Un)Claimed Body: Beauty and Brave in Devkota’s and ‘Ravan Jatayu Yuddha’.” 36th Annual International Conference of Literary Association of Nepal Dhulikhel, Kavre, Nepal, 1-2 March, 2017. 
 
     “Reviving the ‘ancient fires’: Myth and Modernity in Devkota and Yeats.” 9th Annual Conference of Mahakavi Laxmi Prasad Devkota Study and Research Centre IACER, Kathmandu, Nepal, 11-12 November, 2016.   
