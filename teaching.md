@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Teaching
+title: TEACHING
 ---
 Details coming soon . . . 
