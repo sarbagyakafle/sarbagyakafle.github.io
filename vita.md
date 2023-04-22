@@ -3,11 +3,16 @@ layout: page
 title: VITA
 ---
 
-**SARBAGYA KAFLE**</br>
-Department of English</br>
-University of Louisiana at Lafayette</br>
-Lafayette, LA 70504-4691</br>
+**SARBAGYA KAFLE**
+
+Department of English
+
+University of Louisiana at Lafayette
+
+Lafayette, LA 70504-4691
+
 sarbagya.kafle1@louisiana.edu
+
 
 **EDUCATION** 
 
