@@ -48,7 +48,7 @@ title: VITA
 
     “And Booker Ran Away: Compromised Black Masculinity in Morrison's God Help the Child.” 36th Annual Multiethnic Literature of the United States (MELUS) Conference, New Orleans, March 23-27, 2022. 
 
-    “‘Locating the sense of place’: Poetics of Archival Space in Marthe Reed’s Ark Hive: A Memoir of South Louisiana.” Global Souths Conference, University of Louisiana at Lafayette, 2022, March 17-19, 2022	.  
+    “‘Locating the sense of place’: Poetics of Archival Space in Marthe Reed’s Ark Hive: A Memoir of South Louisiana.” Global Souths Conference, University of Louisiana at Lafayette, 2022, March 17-19, 2022.  
 
     “Accumulation, Expendability, and Policing in Howells’ A Hazard of New Fortunes,” 52nd Northeast Modern Language Association (NEMLA), Virtual Annual Convention, at University of Buffalo, March 10-14, 2021.  
 
