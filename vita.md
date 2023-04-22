@@ -16,7 +16,7 @@ title: VITA
 
 **EDUCATION** 
 
-    PhD English - University of Louisiana at Lafayette, Fall 2019 -  2024. 
+    PhD English - University of Louisiana at Lafayette, 2024. 
 
     MPhil English - Tribhuvan University, Central Department of English, Kirtipur, 2014. 
 
