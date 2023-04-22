@@ -2,6 +2,7 @@
 layout: page
 title: Vita
 ---
+
 **EDUCATION** 
 
 PhD English - University of Louisiana at Lafayette, Fall 2019 -  2024. 
