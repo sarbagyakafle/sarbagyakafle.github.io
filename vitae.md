@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VITA
+title: VITAE
 ---
 
 **SARBAGYA KAFLE**
