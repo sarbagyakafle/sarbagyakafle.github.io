@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT ME
+<!-- title: ABOUT ME -->
 ---
 
 <p class="message">
