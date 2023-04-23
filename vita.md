@@ -3,7 +3,7 @@ layout: page
 title: VITA
 ---
 
-## SARBAGYA KAFLE
+**SARBAGYA KAFLE**
 
 Department of English
 
