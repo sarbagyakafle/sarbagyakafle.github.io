@@ -14,6 +14,7 @@ Lafayette, LA 70504-4691
 sarbagya.kafle1@louisiana.edu
 
 
+
 **EDUCATION** 
 
 PhD English, University of Louisiana at Lafayette, 2024. 
@@ -25,6 +26,8 @@ MA English - Tribhuvan University, Central Department of English, Kirtipur, 2006
 BEd English - Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2007.  
 
 BA English & Sociology - Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2004.
+
+
 
 **ACADEMIC APPOINTMENTS** 
 
@@ -39,6 +42,7 @@ Lecturer in Enlgish, Tribhuvan University, Tri-Chandra Multiple Campus, Kathmand
 Tribhuvan University, Makawanpur Multiple Campus, Hetauda, Nepal, 2007- 2012.  
 
 Teacher, Mount Everest English Boarding School, Hetauda, Nepal, 2001-2004.
+
 
 
 **CONFERENCE PAPERS**
