@@ -22,12 +22,11 @@ PhD English, University of Louisiana at Lafayette, 2024.
 
 MPhil English, Tribhuvan University, Central Department of English, Kirtipur, 2014. 
 
-MA English - Tribhuvan University, Central Department of English, Kirtipur, 2006.
+MA English, Tribhuvan University, Central Department of English, Kirtipur, 2006.
 
-BEd English - Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2007.  
+BEd English, Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2007.  
 
-BA English & Sociology - Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2004.
-
+BA English & Soociology, Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2004.
 
 
 **ACADEMIC APPOINTMENTS** 
