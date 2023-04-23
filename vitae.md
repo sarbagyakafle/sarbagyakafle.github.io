@@ -3,8 +3,6 @@ layout: page
 title: VITAE
 ---
 
-
-
 **SARBAGYA KAFLE**
 
 Department of English <br>
