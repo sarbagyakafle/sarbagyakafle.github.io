@@ -60,4 +60,4 @@ Teacher, Mount Everest English Boarding School, Hetauda, Nepal, 2001-2004.
 
 “(Un)Claimed Body: Beauty and Brave in Devkota’s and ‘Ravan Jatayu Yuddha’.” 36th Annual International Conference of Literary Association of Nepal Dhulikhel, Kavre, Nepal, 1-2 March, 2017. 
 
-“Reviving the ‘ancient fires’: Myth and Modernity in Devkota and Yeats.” 9th Annual Conference of Mahakavi Laxmi Prasad Devkota Study and Research Centre IACER, Kathmandu, Nepal, 11-12 November, 2016.   
+“Reviving the ‘ancient fires’: Myth and Modernity in Devkota and Yeats.” 9th Annual Conference of Mahakavi Laxmi Prasad Devkota Study and Research Centre, Kathmandu, Nepal, 11-12 November, 2016.   
