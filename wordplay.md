@@ -77,7 +77,7 @@ The string feels long enough  <br>
 To keep the distant beads in touch! <br>
 March 26, 2021
 
-**Hiku-3** <br>
+**Haiku-3** <br>
 A wtilight sets on <br>
 Brearded tress and lapping waves <br>
 When framed through a lens <br>
