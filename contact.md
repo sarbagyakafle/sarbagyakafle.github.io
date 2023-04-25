@@ -3,9 +3,9 @@ layout: page
 title: CONTACT
 ---
 
-I can be reached out at:
-
-      Email:   sarbagya.kafle@louisina.edu  
-               sarbagyarajkafle@gmail.com
-      Github:  sarbagyakafle
-      Twitter: @Sarbagya15    
+I can be reached out at:<br>
+Email:<br>
+sarbagya.kafle@louisina.edu<br>
+sarbagyarajkafle@gmail.com<br>
+Github: sarbagyakafle<br>
+Twitter: @Sarbagya15    
