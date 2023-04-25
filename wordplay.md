@@ -2,8 +2,8 @@
 layout: page
 title: WORDPLAY
 ---
-**A Lafayette Evening **
 
+**A Lafayette Evening ** <br>
 Dear Lafayette, <br>
 I gazed on your western horizon, <br>
 when the painter of the evening <br>
