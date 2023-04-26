@@ -99,7 +99,7 @@ On a pebble bed and ask <br>
 For a snow blanket <br>
 Feb. 15, 2021
 
-**ARRIVAL** <br>
+**Arrival** <br>
 When the tune of Sarswati's bina <br>
 Mingled with the cohort of nine muses <br>
 
@@ -117,6 +117,4 @@ Instead took flight on the wings of Orix and <br>
 Joined the tap of acorn at this southern yard of Uncle Sam. <br>
 Nov. 28, 2019
 
-
-![image](https://user-images.githubusercontent.com/59418640/234453344-186ac915-f981-442f-95af-79e9b3113026.png)
 
