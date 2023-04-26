@@ -112,7 +112,7 @@ Transcended Emerson's Over soul <br>
 To condense into a drop on Whitman's blade of grass,
 
 I find myself morphed into a purple petal of Jacaranda <br>
-That maneuvered not to join the piling blanket on the turf <br>
+That maneuvered not to join the piling blanket on the turf, <br>
 Instead took flight on the wings of Orix and <br>
 Joined the tap of acorn at this southern yard of Uncle Sam. <br>
 Nov. 28, 2019
