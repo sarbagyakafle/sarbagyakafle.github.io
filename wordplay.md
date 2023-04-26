@@ -100,7 +100,7 @@ For a snow blanket <br>
 Feb. 15, 2021
 
 **Arrival** <br>
-When the tune of Sarswati's bina <br>
+When the tune of Sarswati's _bina_ <br>
 Mingled with the cohort of nine muses <br>
 
 When Kalidasha's cloud messenger <br>
