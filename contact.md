@@ -9,5 +9,4 @@ T: @Sarbagya15
 
 
 
-|![email icon](https://user-images.githubusercontent.com/59418640/234470690-68fd855a-8993-4d88-9150-9bc1af4a46ae.png)
-|sarbagya.kafle1@louisina.edu|
+|![email icon](https://user-images.githubusercontent.com/59418640/234470906-6d3dc198-4656-4578-84d8-7e091f44733e.png)|sarbagya.kafle1@louisina.edu|
