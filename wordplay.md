@@ -101,7 +101,7 @@ Feb. 15, 2021
 
 **Arrival** <br>
 When the tune of Sarswati's _bina_ <br>
-Mingled with the cohort of nine muses <br>
+Mingled with the music of nine muses <br>
 
 When Kalidasha's cloud messenger <br>
 Crossed the oceans to trigger the west wind of Shelley 
