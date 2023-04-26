@@ -104,7 +104,7 @@ When the tune of Sarswati's _bina_ <br>
 Mingled with the cohort of nine muses <br>
 
 When Kalidasha's cloud messenger <br>
-Crossed the oceans to trigger the west wind of PB Shelley 
+Crossed the oceans to trigger the west wind of Shelley 
 
 When the oriental mystical universal self <br>
 Permeated Plotinus's One and <br>
