@@ -98,3 +98,25 @@ Sleet crystals settle <br>
 On a pebble bed and ask <br>
 For a snow blanket <br>
 Feb. 15, 2021
+
+**ARRIVAL** <br>
+When the tune of Sarswati's bina <br>
+Mingled with the cohort of nine muses <br>
+
+When Kalidasha's cloud messenger <br>
+Crossed the oceans to trigger the west wind of PB Shelley 
+
+When the oriental mystical universal self <br>
+Permeated Plotinus's One and <br>
+Transcended Emerson's Over soul <br>
+To condense into a drop on Whitman's blade of grass,
+
+I find myself morphed into a purple petal of Jacaranda <br>
+That maneuvered not to join the piling blanket on the turf <br>
+Instead took flight on the wings of Orix and <br>
+Joined the tap of acorn at this southern yard of Uncle Sam. <br>
+Nov. 28, 2019
+
+
+![image](https://user-images.githubusercontent.com/59418640/234453344-186ac915-f981-442f-95af-79e9b3113026.png)
+
