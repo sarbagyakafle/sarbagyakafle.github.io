@@ -4,7 +4,7 @@ title: WORDPLAY
 ---
 
 **Dream Bubble** <br>
-At the sprightly site of these soap bubbles, my heart took off to the distant land and even more distant past. Here I was strolling at the Girard Park next to my university. There, I avoided the eyes of my parents and sometimes of my two elder sisters, to sneak out of my home onto the street. The street was unpaved and sparsely fenced with the sajiwans. With Spring, the sajiwans had new foliage of tempting leaves of a palm size with a slender finger-length of its petiole. I selected a promising leaf and plucked it from the base of its petiole with an extra caution not to break it otherwise. Then I snapped the petiole near the base of the blade making sure not to break the lower portion of the petiole skin. Thus, I formed a tiny triangle which was filled instantly by a fragile film of transparent sap. Before it formed a droplet, I circled my lips into an O and gently blew right onto the sap triangle—a marble size bubble popped out of the triangle. Aha! My mission accomplished! The dreamy, transparent, and glistening bubble drifted a while in the air. I started chasing after it and touched it out of its existence. As it disappeared, a tiny droplet landed on my white Amul t-shirt and made an indelible dream-mark. I outgrew that t-shirt, but not the memory of the bubble mark. <br>
+At the sprightly site of these soap bubbles, my heart took off to the distant land and even more distant past. Here I was strolling at the Girard Park next to my university. There, I avoided the eyes of my parents and sometimes of my two elder sisters, to sneak out of my home onto the street. The street was unpaved and sparsely fenced with the sajiwans. With Spring, the sajiwans had new foliage of tempting leaves of a palm size with a slender finger-length of its petiole. I selected a promising leaf and plucked it from the base of its petiole with an extra caution not to break it otherwise. Then I snapped the petiole near the base of the blade making sure not to break the lower portion of its skin. Thus, I formed a tiny triangle which was filled instantly by a fragile film of transparent sap. Before it formed a droplet, I circled my lips into an O and gently blew right onto the sap triangle—a marble size bubble popped out of the triangle. Aha! My mission accomplished! The dreamy, transparent, and glistening bubble drifted a while in the air. I started chasing after it and touched it out of its existence. As it disappeared, a tiny droplet landed on my white Amul t-shirt and made an indelible dream-mark. I outgrew that t-shirt, but not the memory of the bubble mark. <br>
 Oct. 14, 2022
 
 **A Lafayette Evening** <br>
@@ -27,7 +27,7 @@ as the painter headed to Eastern hemisphere.
 My mother would soak barley and corn <br>
 and wish for a clear sky as she would wait <br>
 for a glimpse of the same lunar crescent to dig the holy soil <br>
-and make a tiny seedbed for the jamara. <br>
+and make a tiny seedbed for the _jamara_. <br>
 I feel the soft golden shoots of barley and corn, <br>
 On the blurry border of the blue and orange. <br>
 Oct. 7, 2021
