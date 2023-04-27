@@ -9,8 +9,8 @@ I am a PhD candidate in rhetoric and composition at the Univeristy of Louisiana 
 
 <table>
     <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
+      <th>![sarbagya](https://user-images.githubusercontent.com/59418640/234461800-d8cc4e24-10e4-4cb5-8434-6e10dc51e7ec.png)</th>
+      <th>I am a PhD candidate in rhetoric and composition at the Univeristy of Louisiana at Lafayette. My areas of interest include transnational rhetorical circulation, digital rhetoric, first-year composistion, folklore, and American literature. 
+</th>
     </tr>
 </table>
