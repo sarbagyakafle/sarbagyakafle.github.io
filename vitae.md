@@ -5,11 +5,11 @@ title: VITAE
 
 **SARBAGYA KAFLE**
 
- Department of English <br>
- University of Louisiana at Lafayette <br>
- Lafayette, LA 70504-4691 <br>
- sarbagya.kafle1@louisiana.edu <br>
- sarbagyarajkafle@gmail.com
+   Department of English <br>
+   University of Louisiana at Lafayette <br>
+   Lafayette, LA 70504-4691 <br>
+   sarbagya.kafle1@louisiana.edu <br>
+   sarbagyarajkafle@gmail.com
 
 
 **EDUCATION** 
