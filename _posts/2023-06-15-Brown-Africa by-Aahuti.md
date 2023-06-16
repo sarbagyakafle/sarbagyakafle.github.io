@@ -12,7 +12,7 @@ When it trickles becoming blue sweat beads <br>
 You collect them forming bunds in your delicate cupped hands <br>
 When I try to smell the fragrance of that labor <br>
 You humiliate me and keep me away <br>
-Dare to meet my, gaze priest <br>
+Dare to meet my gaze, priest <br>
 I am an ‘untouchable’ of 20th century! <br>
 A brown Africa in this round geography! <br>
 I want justice <br>
