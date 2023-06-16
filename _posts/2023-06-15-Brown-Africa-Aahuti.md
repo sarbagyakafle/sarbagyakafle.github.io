@@ -1,20 +1,21 @@
 ---
 layout: title
-post: Brown Africa by Aahuti 
+post: 'Brown Africa' by Aahuti: Translation 
 ---
 
-*Brown Africa*
+**Brown Africa** by Aahuti <br>
+(First published _Mulaykan_ magazine in 2051 B.S.)
 
-My red blood
-Holy human blood 
-When it trickles becoming blue sweat beads
+My red blood <br>
+Holy human blood <br>
+When it trickles becoming blue sweat beads <br>
 You collect them in your cupped hands  
-When I try to smell the fragrance of that labor 
-You humiliate me and keep me away
-Dare to meet my, gaze priest
-I am an ‘untouchable’ of 20th century!
-A brown Africa in this round geography!
-I want justice
+When I try to smell the fragrance of that labor <br>
+You humiliate me and keep me away <br>
+Dare to meet my, gaze priest <br>
+I am an ‘untouchable’ of 20th century! <br>
+A brown Africa in this round geography! <br>
+I want justice <br>
 I want freedom!
 
 Your temple’s sculpture smells of my smithy,
