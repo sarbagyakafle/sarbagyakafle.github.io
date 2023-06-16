@@ -1,6 +1,6 @@
 ---
 layout: title
-post: Brown Africa by Aahuti: Translation 
+post: Brown Africa by Aahuti--Translation 
 ---
 
 **Brown Africa** by Aahuti <br>
