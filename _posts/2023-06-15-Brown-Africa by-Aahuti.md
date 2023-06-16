@@ -9,7 +9,7 @@ post: Brown Africa by Aahuti
 My red blood <br>
 Holy human blood <br>
 When it trickles becoming blue sweat beads <br>
-You collect them forming bunds in your delicate cupped hands <br>   
+You collect them forming bunds in your delicate cupped hands <br>
 When I try to smell the fragrance of that labor <br>
 You humiliate me and keep me away <br>
 Dare to meet my, gaze priest <br>
