@@ -4,7 +4,7 @@ post: Brown Africa by Aahuti
 ---
 
 **Brown Africa** by Aahuti <br>
-(First published in _Mulaykan_ magazine in 2051 B.S.)
+(This poem was first published in Nepali as "Gahungoro Africa" in _Mulaykan_ magazine in 2051 B.S. and also includied as the opening section in Aahuti's 2010 book _Nepalma Varna Vyavastha ra Varga-Sanghrsha_)
 
 My red blood <br>
 Holy human blood <br>
@@ -61,3 +61,5 @@ I am a 20th century ‘untouchable’! <br>
 A brown Africa in this round geography! <br>
 I want the account of my humiliated history <br>
 I want freedom at any costs! 
+
+(Translator: Sarbagya Kafle, June 15, 2023, 11.00 pm)
