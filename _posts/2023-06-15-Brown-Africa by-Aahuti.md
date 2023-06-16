@@ -4,7 +4,7 @@ post: Brown Africa by Aahuti
 ---
 
 **Brown Africa** by Aahuti <br>
-(This poem was first published in Nepali as "Gahungoro Africa" in _Mulaykan_ magazine in 2051 B.S. and also includied as the opening section in Aahuti's 2010 A.D. book _Nepalma Varna Vyavastha ra Varga-Sanghsrsha_)
+(This poem was first published in Nepali as "Gahungoro Africa" in _Mulaykan_ magazine in 2051 B.S. and also includied as the opening section in Aahuti's 2010 A.D. book _Nepalma Varna Vyavastha ra Varga-Sangharsha_)
 
 My red blood <br>
 Holy human blood <br>
