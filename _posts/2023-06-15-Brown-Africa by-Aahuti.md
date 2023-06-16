@@ -23,7 +23,7 @@ _Karahi_ on your trivet smells of my sweat <br>
 Dare to meet my gaze, pious man! <br>
 Either dare to smolder my existence and maintain your religion <br>
 Or have courage to tear or burn the pages of scriptures that humiliate me <br>
-I am the blacksmith who made the god of your temple <br>
+I am a blacksmith who made the god of your temple <br>
 A brown Africa in this round geography!
 
 Sniff the clean floor of your settlement <br>
