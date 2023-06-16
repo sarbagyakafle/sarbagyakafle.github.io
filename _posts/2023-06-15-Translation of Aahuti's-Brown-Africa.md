@@ -4,7 +4,7 @@ post: Brown Africa by Aahuti--Translation
 ---
 
 **Brown Africa** by Aahuti <br>
-(First published _Mulaykan_ magazine in 2051 B.S.)
+(First published in _Mulaykan_ magazine in 2051 B.S.)
 
 My red blood <br>
 Holy human blood <br>
