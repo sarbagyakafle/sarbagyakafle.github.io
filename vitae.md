@@ -14,7 +14,7 @@ sarbagyarajkafle@gmail.com
 
 **EDUCATION** 
 
-PhD English, University of Louisiana at Lafayette, 2024. 
+PhD Candidate, University of Louisiana at Lafayette, 2024. 
 
 MPhil English, Tribhuvan University, Central Department of English, Kirtipur, 2014. 
 
