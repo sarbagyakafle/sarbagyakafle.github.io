@@ -6,17 +6,11 @@ title: Vidydabhusana's Introduction to Gotama's Nyaya Sutra
 In his introduction to _The Nyaya Sutras of Gotama_ (1913), Satisa Chandra Vidyabhusana discusses the etymological meaning of Naya sutra, its authorship, and its strained reception in the vedic tradition of scriptural authority. He finds that Panini, famous Sanskrit grammarian from 350 BC, explained the term “Nyaya” as a derivative of the root “i” meaning “gam” or “to go.” In this sense, Vidyabhusana points, “‘Nyaya’ as signifying logic is etymologically identitcal with ‘nigama’ the conclusion of a syllogism” (I). He finds that Panini, famous Sanskrit grammarian from 350 BC, explained the term “Nyaya” as a derivative of the root “i” meaning “gam” or “to go.” In this sense, Vidyabhusana points, “‘Nyaya’ as signifying logic is etymologically identitcal with ‘nigama’ the conclusion of a syllogism” (i). Bhivusana pointa that, though Naya is the earliest work in Nyaya philosophy, the concept of logic has been referred to Sanskrit tradition by the terms like 
 
 * Hetu-vidya or Hetu-Sastra–the scince of causes 
-
 * Anviksiki–the scicne of inquiry 
-
 * Pramana-Sastra–teh science of corrent knowledge 
-
 * Tatta-Sastra–the science of categories 
-
 * Takra-vidya–the science of reasoning 
-
 * Vadartha–the science of discussion 
-
 * Phakkika-Sastra–the science of sophism (i) 
 
 Vidyabhusana writes that the Gautama or Gotama Aksapada or Dirggatapas was credited as the teh founding sage of Nyaya or logic. Aksapada and Dirghatapas refer to Gotama’s “meditative habit and practice of long penance” (ii). 
@@ -46,4 +40,4 @@ Consequently, instead of entirley relying on the rational frame, Nyaya started i
 
 Reference: 
 
-Gotama, Aksapada. The Nyaya Sutras of Gotama. Translated by Satisa Chandra Vidyabhusana, Allahabad: The Panini Panini Ofice, 1913. 
+Gotama, Aksapada. _The Nyaya Sutras of Gotama_. Translated by Satisa Chandra Vidyabhusana, Allahabad: The Panini Panini Ofice, 1913. 
