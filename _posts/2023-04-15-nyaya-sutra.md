@@ -27,17 +27,13 @@ Vidhyabhusana also points that when Gotama came up with “a rational system of 
 But Nyaya’s call for rational inquiry received a strong resistance from the community of “orthodox Brahmanas” like Jaimini, Manu, Valimiki, and Vyasa among others. 
 
 * Sage Jaimini who propounded Mimiamsa-Sutra emphasized on the prescriptive rituals and ignored the other parts of Veda. 
-
 * Manu, in Mansmiriti, enjoined that the twiceborn members of the coummiunity be excommunicated if they ignore Veda and Dharma-satras and rely upon Hetu-Shastra or Logic. 
-
 * Valmiki, in his Ramayana, considered Avnisiki or the science of lgoic as perverse frivorlty and diregarded the people who pursue it at the cost of edicts of Dharma-sastra. 
-
 * Vyasa, in Mahabharata’s Santiparva, tells the story of a Brahman who, being additcted to Tarkavidya or logic and detached from faith in Veda, got punished to be reborn as a jackle. Vyasa warned the followers of Vedanta philsophy not to share their doctrines with the followers of Naiyayika or Logic. Vidyabhusana found that Vyasa does not even “review the Nyaya system in the Brahman-sutra seeing that it has not been recoginsed by any worthy sage” (xii). 
 
 Suuch stories of pubishment of the puruser of loigc are numerous in scriptures. For instance, in Naisadha-carita, Kali chastizes Gotama the founder of Nyaya “the ‘most bovine’ among the sages” (xii). 
 
 Consequently, instead of entirley relying on the rational frame, Nyaya started incoporating the element of trust on the authority of Vdeas (Vidhyabhusana xiv). Later on, it got included in other philosophical systemts like Vaisesika, Yoga, Mimamsa, and Samkhya (xiv). Thus, Nyaya was accepted as a branch of knowledge. 
 
-Reference: 
-
+Reference:<br>
 Gotama, Aksapada. _The Nyaya Sutras of Gotama_. Translated by Satisa Chandra Vidyabhusana, Allahabad: The Panini Panini Ofice, 1913. 
