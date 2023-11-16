@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historical Timeline</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+        }
+
+        .timeline {
+            position: relative;
+            max-width: 800px;
+            margin: 50px auto;
+        }
+
+        .event {
+            position: relative;
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #f2f2f2;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+        }
+
+        .event::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: -10px;
+            margin-top: -10px;
+            border-style: solid;
+            border-width: 10px 0 10px 10px;
+            border-color: transparent transparent transparent #f2f2f2;
+        }
+
+        .date {
+            font-size: 16px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .description {
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="timeline">
+        <div class="event">
+            <div class="date">Ancient Civilization</div>
+            <div class="description">
+                The earliest known civilizations emerge in Mesopotamia, Egypt, the Indus Valley, and China.
+            </div>
+        </div>
+
+        <div class="event">
+            <div class="date">Middle Ages</div>
+            <div class="description">
+                Feudalism develops in Europe, and various empires rise and fall in different parts of the world.
+            </div>
+        </div>
+
+        <div class="event">
+            <div class="date">Renaissance</div>
+            <div class="description">
+                A period of renewed interest in art, science, and learning in Europe.
+            </div>
+        </div>
+
+        <!-- Add more events as needed -->
+
+    </div>
+
+</body>
+</html>
