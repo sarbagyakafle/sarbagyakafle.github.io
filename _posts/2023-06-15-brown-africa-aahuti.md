@@ -1,6 +1,6 @@
 ---
-layout: title
-post: Brown Africa by Aahuti 
+layout: post
+title: Brown Africa by Aahuti 
 ---
 
 **Brown Africa** by Aahuti <br>
