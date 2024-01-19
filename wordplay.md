@@ -97,7 +97,7 @@ And installed on Avery Island.
 
 I wonder:<br> 
 When they stole the statue of Buddha,<br>
-What portion of eight-fold right ways<br>
+What portion of eight-fold paths<br>
 Did they smuggle? <br>
 If they had managed any, <br>
 Did they trap them in the same glass cage? <br> 
