@@ -81,6 +81,28 @@ The string feels long enough  <br>
 To keep the distant beads in touch! <br>
 March 26, 2021
 
+**Smuggled Buddha** <br>
+By a scaled down white statue of Buddha, <br>
+I fold  my legs to pose a padmasana like <br>
+the larger-than-life red statue of Buddha <br>
+in the glass-cage temple in front of me, <br>
+to click myself in a picture <br>
+and to incarnate on social media. 
+
+Stone inscription of the premise says: <br>
+This statue was stolen from China <br>
+And then smuggled to New York <br>
+Louisiana bought it <br>
+And installed on Avery Island. 
+
+I wonder:<br> 
+When they stole the statue of Buddha,<br>
+What portion of eight-fold right ways<br>
+Did they smuggle? <br>
+If they had managed any, <br>
+Did they trap them in the same glass cage? <br> 
+Apr. 18, 2021
+
 **Haiku-3** <br>
 A wtilight sets on <br>
 Brearded tress and lapping waves <br>
