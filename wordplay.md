@@ -2,6 +2,30 @@
 layout: page
 title: WORDPLAY
 ---
+**Smuggled Buddha** <br>
+
+By a white statue of the  little Buddha,<br>
+I folded  my legs to strike a lotus pose,<br>
+And faced another humongous red Buddha <br>
+In the glass-caged temple in front of me. 
+
+That was just to click myself in a picture <br>
+and to incarnate on the click-farms  of Metaverse. 
+
+The marble inscription of the temple said:<br>
+This statue was stolen from China <br>
+And then smuggled to New York <br>
+Then bought by Louisiana <br>
+And installed on Avery Island.
+
+Now I wonder: <br>
+In this transoceanic theft of Buddha, <br>
+What portion of Four Noble Truths, <br>
+What amount of compassion & self-knowledge <br>
+Did they smuggle in here? <br>
+If they had managed any, <br>
+Did they trap them in the same glass cage?<br> 
+Mar. 1, 2024
 
 **Dream Bubble** <br>
 At the sprightly site of these soap bubbles, my heart took off to the distant land and even more distant past. Here I was strolling at the Girard Park next to my university. There, I avoided the eyes of my parents and sometimes of my two elder sisters, to sneak out of my home onto the street. The street was unpaved and sparsely fenced with the sajiwans. With Spring, the sajiwans had new foliage of tempting leaves of a palm size with a slender finger-length of its petiole. I selected a promising leaf and plucked it from the base of its petiole with an extra caution not to break it otherwise. Then I snapped the petiole near the base of the blade making sure not to break the lower portion of its skin. Thus, I formed a tiny triangle which was filled instantly by a fragile film of transparent sap. Before it formed a droplet, I circled my lips into an O and gently blew right onto the sap triangle—a marble size bubble popped out of the triangle. Aha! My mission accomplished! The dreamy, transparent, and glistening bubble drifted a while in the air. I started chasing after it and touched it out of its existence. As it disappeared, a tiny droplet landed on my white Amul t-shirt and made an indelible dream-mark. I outgrew that t-shirt, but not the memory of the bubble mark. <br>
