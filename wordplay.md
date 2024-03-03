@@ -21,7 +21,7 @@ And installed on Avery Island.
 Now I wonder: <br>
 In this transoceanic theft of Buddha, <br>
 What portion of Four Noble Truths, <br>
-What amount of compassion & self-knowledge <br>
+What amount of compassion and self-knowledge <br>
 Did they smuggle in here? <br>
 If they had managed any, <br>
 Did they trap them in the same glass cage?<br> 
