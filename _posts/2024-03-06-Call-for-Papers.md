@@ -2,7 +2,7 @@
 layout: post
 title: Call for Papers
 ---
-**Rhetoric in the Digital Town Squares**
+[**Rhetoric in the Digital Town Squares**](https://mla.confex.com/mla/2025/webprogrampreliminary/Paper26924.html)
 
 _Special Session for 2025 MLA Convention in New Orleans, Jan. 9-12_
 
