@@ -106,8 +106,8 @@ To keep the distant beads in touch! <br>
 March 26, 2021
 
 **Haiku-3** <br>
-A wtilight sets on <br>
-Brearded tress and lapping waves <br>
+A twilight sets on <br>
+Bearded tress and lapping waves <br>
 When framed through a lens <br>
 Apr. 22, 2022
 
@@ -137,7 +137,7 @@ To condense into a drop on Whitman's blade of grass,
 
 I find myself morphed into a purple petal of Jacaranda <br>
 That maneuvered not to join the piling blanket on the turf, <br>
-Instead took flight on the wings of Orix and <br>
+Instead took flight on the wings of Oryx and <br>
 Joined the tap of acorn at this southern yard of Uncle Sam. <br>
 Nov. 28, 2019
 
