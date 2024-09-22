@@ -42,6 +42,10 @@ Teacher, Mount Everest English Boarding School, Hetauda, Nepal, 2001-2004.
 
 **CONFERENCE PAPERS**
 
+“Encomia and Suspicion of Speech in the Ancient Greek and Hindu Rhetorics,” May 26. 2024, Rhetoric Society of America (RSA) Biennial Conference 2024, Denver CO, May 23-26, 2024. 
+
+“Transnational Counterpublics for Justice: Rhetorical Circulation between South Asia and the U.S.” Northeast Modern Language Association (NeMLA), 55th Annual Convention, Boston MA, March 7-10, 2024. 
+
 “From #BlackLivesMatter to #DalitLivesMatterNepal: Rhetorical Circulation for Justice,” Global Souths Conference, University of Louisiana at Lafayette, March 23-25, 2023. 
 
 “Memetic Cinderellas of Attention Economy.” Modern Language Association, San Francisco, Jan. 5-8, 2023. 
