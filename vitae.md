@@ -3,7 +3,7 @@ layout: page
 title: VITAE
 ---
 
-#SARBAGYA KAFLE
+**SARBAGYA KAFLE**
 
 Department of English <br>
 University of Louisiana at Lafayette <br>
@@ -12,7 +12,7 @@ sarbagya.kafle1@louisiana.edu <br>
 sarbagyarajkafle@gmail.com
 
 
-#EDUCATION 
+**EDUCATION** 
 
 PhD Candidate, University of Louisiana at Lafayette, 2024. 
 
