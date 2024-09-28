@@ -1,0 +1,3 @@
+[submodule "sarbagyakafle/timeline"]
+   path = path/to/your/new-repo
+   url = https://github.com/sarbagyakafle.github.io/sarbagyakafle/timeline.git
