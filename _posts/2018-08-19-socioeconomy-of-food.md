@@ -16,7 +16,7 @@ Another item shunned as kuanna or bad cereal is millet, kodo. Allegedly upper ca
 
 As people are more aware of its rich nutrients, millet and its powder are now available in the superstores of metropolises at home and abroad.
 
-**Infamy of rice **
+**Infamy of rice**
 
 Unlike the mushroom and millet which show a movement from pejoration toward amelioration, rice, being a staple food of Nepali, entertains prestigious position in our community to the same degree the wheat has received privilege in Eucharistic societies. From its plantation to the harvest, various rituals accompany it. Rice grain is always a symbol of fruitfulness and prosperity. 
 
