@@ -1,4 +1,7 @@
-**Socio-economy of food**
+---
+layout: post
+title: Socio-economy of food
+---
 
 I remember the day when I was just 10 and was in the nearby pasture with my friends, mostly from Tamang family, herding our cows. Niraj, one of my friends, shouted with joy as if he spotted a hidden treasure behind a bush.  It was the serendipitous gems of creamy white puffy balls of countless mushroom studded on the green ground. He started plucking them up and filling the fold of his t-shirt end. I followed him and filled mine with those soft balls. Elated, I was anticipating a fresh delicious mushroom dish for the dinner. On the way home with my cows, one of my neighboring aunts inquired about the big bulging end of my shirt. With a sense of pride, I showed her the content and expected a compliment. Her frown and remark—“How dare you bring mushroom being a kid of Brahmin?” made me crestfallen. 
 
