@@ -26,3 +26,4 @@ Now it has acquired ironic political baggage of meaning and has now become a par
 
 “Culture begins and ends on a plate,” writes G Murphy Donovan, a former USAF Intelligence officer and Vietnam veteran. The field of meaning of the plate and its content keep changing acquiring different cultural and political meaning. Mushroom, millet and Marshi testify this inexorable process of transformation that goes well beyond the gastronomical etiquette and acquires quality of multilayered metaphors.
 
+Note: This artilce was was originally published in _My Republica_ on August 19, 2018. https://myrepublica.nagariknetwork.com/news/socio-economy-of-food
