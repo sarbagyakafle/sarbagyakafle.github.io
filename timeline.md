@@ -1,26 +1,32 @@
-::: timeline {.squish-left}
-2003
+---
+layout: page
+title: Timeline
+---
+::: timeline
+1564 April 23
+William Shakespeare Born
+: He spent his early years in Stratford upon Avon where he attended Stratford Grammar School until he was 14 years old
 
-The Matrix is released
-: Oct. 27
-: The movie's groundbreaking effects stun moviegowers and producers alike.
+November 28
+William Marries Anne Hathaway
+: ‘William Shagspeare’ as it was spelt on the marriage bond wed ‘Anne Hathwey’ - Anne Hathaway of Shottery, Stratford
 
-&nbsp;
+1582
+The Globe Theatre
+: Financing
+: Shakespeare and other members of the company finance the building of the Globe Theatre
+:::
 
-Concorde Retired
-: Nov. 26
-: The supersonic passenger jet, Concorde, makes its last ever flight from Heathrow Airport in London to Bristol Filton Airport.
+::: timeline
+1599
+Construction
+: The Globe Theatre is built on Bankside
 
-&nbsp;
+1600
+First Production
+: First production of Julius Caesar at the Globe theatre
 
-World Tourism Foundation created
-: Dec. 23
-: The World Tourism Organization becomes a specialized agency of the United Nations.
-
-2004
-
-MER-A lands on Mars
-: Jan. 4
-: NASA's MER-A (Spirit) spacecraft lands on the surface of Mars.
-: The Spirit rover immediately began its ~~3 hour tour~~ 90-sol mission on the Red Planet. This mission would be extended into 2010.
+October 8
+A Midsummer’s Nights Dream
+: Registration of his famous play ‘A Midsummer’s Nights Dream’
 :::
