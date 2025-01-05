@@ -2,6 +2,7 @@
 layout: page
 title: Timeline
 ---
+
 ::: timeline
 1564 April 23
 William Shakespeare Born
