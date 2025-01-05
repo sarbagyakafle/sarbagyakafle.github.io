@@ -1,9 +1,3 @@
----
-layout: page
-title: TIMELINE
----
-**Example** <br>
-
 ::: timeline {.squish-left}
 2003
 
