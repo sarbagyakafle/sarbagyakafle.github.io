@@ -2,6 +2,14 @@
 layout: page
 title: WORDPLAY
 ---
+[**Morning run**](https://sarbagya.substack.com/p/morning-run)  <br>
+Taps of acorns woke me up early morning— <br>
+My fleeting feet on the crunchy leaves <br>
+Broke the silence of the slanted rays <br>
+Filtered through the boles and boughs— <br>
+A chipmunk nibbling its nutty breakfast <br>
+Greeted me with its furry tail— <br>
+
 **Smuggled Buddha** <br>
 
 By a white statue of the  little Buddha,<br>
