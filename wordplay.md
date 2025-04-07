@@ -110,13 +110,12 @@ Milfort, Louis LeClerc. _Memoirs or a Quick Glance at My Various Travels and My 
 Martha, Reed. _Ark Hive: A Memoir of South Louisiana_. Operating System, 2018.<br/> 
 6 May 2021
 
-**Under My Wings**
-
-![image](https://github.com/user-attachments/assets/28354159-76d2-463b-9dbc-0ca550852a2c)<br/>
+**Under My Wings** <br/>
+![image](https://github.com/user-attachments/assets/28354159-76d2-463b-9dbc-0ca550852a2c)
 1803: Expectation <br/>
-![image](https://github.com/user-attachments/assets/ecec8cdd-01ce-4508-84f4-6ecd15f5c24e)<br/>
+![image](https://github.com/user-attachments/assets/ecec8cdd-01ce-4508-84f4-6ecd15f5c24e)
 1851: Somoking progress <br/>
-![image](https://github.com/user-attachments/assets/8053f53a-f4b9-4cd0-8d81-aca7fb620f43)<br/>
+![image](https://github.com/user-attachments/assets/8053f53a-f4b9-4cd0-8d81-aca7fb620f43)
 2001: Leadding up!
 
 6 May 2021
