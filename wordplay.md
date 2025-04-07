@@ -105,8 +105,8 @@ Were no more so <br/>
     She meditates upon this change, as an insider, as an outsider. <br/>
 
 Note:<br/> 
-- Milfort, Louis LeClerc. Memoirs or a Quick Glance at My Various Travels and My Sojourn in the Creek Nation. Edited and translated by Ben C. McCarry. Kennesaw: Continental Book Company, 1959. https://babel.hathitrust.org/cgi/pt?id=mdp.39015009041180&view=1up&seq=9 ![image](https://github.com/user-attachments/assets/e7c6fddf-a54d-4db1-88f9-0bfa175bcedb). <br/>
-- Martha, Reed. Ark Hive: A Memoir of South Louisiana. Operating System, 2018. ![image](https://github.com/user-attachments/assets/23c11c1c-e6bd-4037-825e-b665893ab118) <br/>.
+- Milfort, Louis LeClerc. Memoirs or a Quick Glance at My Various Travels and My Sojourn in the Creek Nation. Edited and translated by Ben C. McCarry. Kennesaw: Continental Book Company, 1959.<br/> 
+- Martha, Reed. Ark Hive: A Memoir of South Louisiana. Operating System, 2018.<br/> 
 6 May 2021
 
 **Beads** <br>
