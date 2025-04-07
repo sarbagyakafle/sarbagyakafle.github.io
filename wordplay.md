@@ -69,10 +69,10 @@ Joseph, Milfort, and Reed<br/>
 T w e n t y 	y e a r s … <br/>
 Perhaps with d’Anville’s maps in his hands,<br/>  
 Milfort travelled<br/>
-    Jan. 1775 France, Dunkirk<br/> 
-        Norway, Bergen<br/>
-    Apr. 1775 USA, New London, Connecticut, <br/>
-      Boston, New York, Jersey, Philadelphia, Baltimore, York Town of Virginia, two Carolinas, Savannah of Gorgia, River Augusta, Orangeburg South Carolina, . . . 
+Jan. 1775 <br/>
+France, Dunkirk, Norway, Bergen<br/>
+Apr. 1775 <br/>
+USA, New London, Connecticut, Boston, New York, Jersey, Philadelphia, Baltimore, York Town of Virginia, two Carolinas, Savannah of Gorgia, River Augusta, Orangeburg South Carolina, . . . 
       
 among<br/>
 the savage nations of North America <br/>
@@ -84,8 +84,8 @@ still in the cradle of nature,<br/>
 without writing, <br/>
 without any means of dissimulation <br/>
 Elder Creeks showed him their <br/>
-    belts and chaplets “their archives” <br/>
-    different arrangement pattern told different stories <br/>
+belts and chaplets “their archives” <br/>
+different arrangement pattern told different stories <br/>
 Milfort resented a pastoral account to Napoleon <br/>
 What an asset would these people and the region for his home country? <br/>
 
@@ -101,12 +101,12 @@ She read Milfort who met Joseph <br/>
 How different are her memories? <br/>  
 The forests Milfort and Joseph navigated <br/>
 Were no more so <br/>
-    Technologies and toxics changed the region<br/>
-    She meditates upon this change, as an insider, as an outsider. <br/>
+Technologies and toxics changed the region<br/>
+She meditates upon this change, as an insider, as an outsider. <br/>
 
 Note:<br/> 
-- Milfort, Louis LeClerc. Memoirs or a Quick Glance at My Various Travels and My Sojourn in the Creek Nation. Edited and translated by Ben C. McCarry. Kennesaw: Continental Book Company, 1959.<br/> 
-- Martha, Reed. Ark Hive: A Memoir of South Louisiana. Operating System, 2018.<br/> 
+Milfort, Louis LeClerc. _Memoirs or a Quick Glance at My Various Travels and My Sojourn in the Creek Nation_. Edited and translated by Ben C. McCarry. Kennesaw: Continental Book Company, 1959.<br/> 
+Martha, Reed. _Ark Hive: A Memoir of South Louisiana_. Operating System, 2018.<br/> 
 6 May 2021
 
 **Beads** <br>
