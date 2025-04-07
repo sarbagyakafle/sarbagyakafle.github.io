@@ -115,8 +115,7 @@ Martha, Reed. _Ark Hive: A Memoir of South Louisiana_. Operating System, 2
 1803: Expectation <br/>
 ![image](https://github.com/user-attachments/assets/ecec8cdd-01ce-4508-84f4-6ecd15f5c24e)
 1851: Somoking progress <br/>
-![image](https://github.com/user-attachments/assets/8053f53a-f4b9-4cd0-8d81-aca7fb620f43)
-2001: Leadding up!
+![image](https://github.com/user-attachments/assets/8053f53a-f4b9-4cd0-8d81-aca7fb620f43)2001: Lead-ing up!
 
 6 May 2021
 
