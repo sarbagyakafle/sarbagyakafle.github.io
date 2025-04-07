@@ -64,6 +64,51 @@ I feel the soft golden shoots of barley and corn, <br>
 On the blurry border of the blue and orange. <br>
 Oct. 7, 2021
 
+**Joseph, Morlfort, and Reed** <br/>
+Joseph, Milfort, and Reed<br/>
+T w e n t y 	y e a r s … <br/>
+Perhaps with d’Anville’s maps in his hands,<br/>  
+Milfort travelled<br/>
+    Jan. 1775 France, Dunkirk<br/> 
+        Norway, Bergen<br/>
+    Apr. 1775 USA, New London, Connecticut, <br/>
+      Boston, New York, Jersey, Philadelphia, Baltimore, York Town of Virginia, two Carolinas, Savannah of Gorgia, River Augusta, Orangeburg South Carolina, . . . 
+      
+among<br/>
+the savage nations of North America <br/>
+served as the war chief of Creek Nations <br/>
+with no intention to write a novel <br/>
+promised to lay bare the fact about <br/>
+savages too close to nature, <br/>
+still in the cradle of nature,<br/>
+without writing, <br/>
+without any means of dissimulation <br/>
+Elder Creeks showed him their <br/>
+    belts and chaplets “their archives” <br/>
+    different arrangement pattern told different stories <br/>
+Milfort resented a pastoral account to Napoleon <br/>
+What an asset would these people and the region for his home country? <br/>
+
+Five days west from St. Bernard Parish <br/>
+One hour after sunrise Milfort encountered the Atakapa, <br/>
+A misnomer from the Spaniards <br/>   
+A European Joseph among them <br/>
+Had spent  e l e v e n      y e a r s  among them wanted more 
+
+Centuries later, Marthe Reed, steers her poetic ark  <br/>
+In La Louisane, <br/>
+She read Milfort who met Joseph <br/>
+How different are her memories? <br/>  
+The forests Milfort and Joseph navigated <br/>
+Were no more so <br/>
+    Technologies and toxics changed the region<br/>
+    She meditates upon this change, as an insider, as an outsider. <br/>
+
+Note:<br/> 
+- Milfort, Louis LeClerc. Memoirs or a Quick Glance at My Various Travels and My Sojourn in the Creek Nation. Edited and translated by Ben C. McCarry. Kennesaw: Continental Book Company, 1959. https://babel.hathitrust.org/cgi/pt?id=mdp.39015009041180&view=1up&seq=9 ![image](https://github.com/user-attachments/assets/e7c6fddf-a54d-4db1-88f9-0bfa175bcedb). <br/>
+- Martha, Reed. Ark Hive: A Memoir of South Louisiana. Operating System, 2018. ![image](https://github.com/user-attachments/assets/23c11c1c-e6bd-4037-825e-b665893ab118) <br/>.
+6 May 2021
+
 **Beads** <br>
 Johnston Street is different tonight <br>
 Regular wheels are not flashing <br>
