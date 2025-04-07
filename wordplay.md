@@ -64,7 +64,8 @@ I feel the soft golden shoots of barley and corn, <br>
 On the blurry border of the blue and orange. <br>
 Oct. 7, 2021
 
-**Joseph, Morlfort, and Reed** <br/>
+**Joseph, Morlfort, and Reed** 
+
 Joseph, Milfort, and Reed<br/>
 T w e n t y 	y e a r s … <br/>
 Perhaps with d’Anville’s maps in his hands,<br/>  
@@ -107,6 +108,16 @@ She meditates upon this change, as an insider, as an outsider. <br/>
 Note:<br/> 
 Milfort, Louis LeClerc. _Memoirs or a Quick Glance at My Various Travels and My Sojourn in the Creek Nation_. Edited and translated by Ben C. McCarry. Kennesaw: Continental Book Company, 1959.<br/> 
 Martha, Reed. _Ark Hive: A Memoir of South Louisiana_. Operating System, 2018.<br/> 
+6 May 2021
+
+**Under My Wings**
+![image](https://github.com/user-attachments/assets/28354159-76d2-463b-9dbc-0ca550852a2c)<br/>
+1803: Expectation <br/>
+![image](https://github.com/user-attachments/assets/ecec8cdd-01ce-4508-84f4-6ecd15f5c24e)<br/>
+1851: Somoking progress <br/>
+![image](https://github.com/user-attachments/assets/8053f53a-f4b9-4cd0-8d81-aca7fb620f43)<br/>
+2001: Leadding up!
+
 6 May 2021
 
 **Beads** <br>
