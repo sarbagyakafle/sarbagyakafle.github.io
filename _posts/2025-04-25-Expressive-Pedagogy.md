@@ -56,13 +56,31 @@
   color: #3498db;
   font-size: 1rem;
 }
+
+  .timeline-content h3 {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.timeline-avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #3498db;
+}
+
 </style>
 
 <div class="timeline">
 
   <div class="timeline-item">
     <div class="timeline-content">
-      <h3><i class="fas fa-pen-nib"></i> Peter Elbow (1935–2025)</h3>
+      <h3>
+        <img ![lecture](https://github.com/user-attachments/assets/69d202c4-e579-45e5-a4bc-1c13aa0bc3f2)
+ alt="Peter Elbow" class="timeline-avatar"> Peter Elbow (1935–2025)
+      </h3>
       <p>1968 – "A Method for Teaching Writing"<br>
          1973 – <em>Writing Without Teachers</em><br>
          1981 – <em>Writing With Power</em><br>
