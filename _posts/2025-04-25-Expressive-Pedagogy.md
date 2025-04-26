@@ -53,28 +53,21 @@
 }
 </style>
 
-Based on Chris Burnham and Rebecca Powell's book artilce "Expressive Pedagogy: Practice/Theory, Theory/Practice" published in 2014 _A Guide to Composition Pedagogies_ edited by Gary Tate et al. this outline following outline tries to portray the key figures and features of expressive pedagoggy.  
-
 <div class="timeline-horizontal">
- 
   <div class="timeline-card">
-    <h3> Peter Elbow (1935-2025)</h3>
-    <p> 1968-"A Method for Teaching Writing"; 1973-"Writing Without Teachers"; 1981-_Writing With Power: Teaching for Mastering the Writing Process_; 1991-"Toward a Phenomenology of Freewriting"; 1994-"Introduction: About Voice in Writing"</p>
+    <h3>2020 – PhD Start</h3>
+    <p>Began doctoral research in English Literature and Rhetoric.</p>
   </div>
-
   <div class="timeline-card">
-    <h3>Donald Murray (1924-2006)</h3>
-    <p>1998-_Write to Learn_; 1998 _The Craft of Revision_</p>
+    <h3>2022 – First Article</h3>
+    <p>Published a peer-reviewed paper on digital rhetoric and memory.</p>
   </div>
-  
   <div class="timeline-card">
-    <h3>James Britton</h3>
-    <p>1970-_Langyage and Writing_; 1978 _The Development of Writing Abilities_</p>
+    <h3>2023 – Built Website</h3>
+    <p>Launched <a href="https://sarbagyakafle.com">sarbagyakafle.com</a> using Hyde and GitHub Pages.</p>
   </div>
-  
   <div class="timeline-card">
-    <h3>bell hooks</h3>
-    <p>1993-_Sisters of the Yam: Black Women and Self-Recovery_; 1994-_Teaching to Transgress: Education as the Practice of Freedom_.</p>
+    <h3>2025 – Dissertation Defense</h3>
+    <p>Defended dissertation on rhetorical ethics in posthuman AI systems.</p>
   </div>
-  
 </div>
