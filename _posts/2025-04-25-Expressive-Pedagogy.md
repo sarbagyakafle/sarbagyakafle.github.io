@@ -1,8 +1,8 @@
 <style>
 .timeline-container {
   position: relative;
-  max-width: 800px;
-  margin: 2rem auto;
+  width: 100%;
+  margin: 2rem 0;
   padding: 2rem 0;
 }
 .timeline-container::before {
@@ -10,32 +10,29 @@
   position: absolute;
   top: 0;
   left: 50%;
-  transform: translateX(-50%);
   width: 4px;
   height: 100%;
   background-color: #3498db;
+  transform: translateX(-50%);
+  z-index: 0;
 }
+
 .timeline-entry {
+  width: 46%;
+  padding: 1rem;
   position: relative;
-  width: 50%;
-  padding: 1rem 2rem;
+  margin-bottom: 3rem;
   box-sizing: border-box;
 }
+
 .timeline-entry .content {
-  background-color: #fff;
+  background: #fff;
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 1rem;
-  box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
-.timeline-entry h3 {
-  margin-top: 0;
-  color: #2c3e50;
-}
-.timeline-entry p {
-  font-size: 0.95rem;
-  color: #555;
-}
+
 .timeline-entry::before {
   content: '';
   position: absolute;
@@ -43,34 +40,49 @@
   width: 16px;
   height: 16px;
   background: #3498db;
-  border-radius: 50%;
   border: 3px solid #fff;
+  border-radius: 50%;
   z-index: 1;
 }
+
 .timeline-entry.left {
-  left: 0;
+  float: left;
+  clear: both;
   text-align: right;
 }
 .timeline-entry.left::before {
   right: -8px;
 }
+
 .timeline-entry.right {
-  left: 50%;
+  float: right;
+  clear: both;
   text-align: left;
 }
 .timeline-entry.right::before {
   left: -8px;
 }
 
+/* Clearfix */
+.timeline-container::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .timeline-entry {
     width: 100%;
-    left: 0 !important;
+    float: none;
     text-align: left !important;
-    padding-left: 4rem;
+    padding-left: 3rem;
   }
   .timeline-entry::before {
+    left: 16px !important;
+    right: auto !important;
+  }
+  .timeline-container::before {
     left: 20px;
   }
 }
@@ -85,7 +97,7 @@
          1973 – <em>Writing Without Teachers</em><br>
          1981 – <em>Writing With Power</em><br>
          1991 – "Toward a Phenomenology of Freewriting"<br>
-         1994 – "Introduction: About Voice in Writing"
+         1994 – "About Voice in Writing"
       </p>
     </div>
   </div>
