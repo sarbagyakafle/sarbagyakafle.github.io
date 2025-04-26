@@ -88,6 +88,23 @@
 }
 </style>
 
+<style>
+/* Override Hyde's narrow post content for timeline */
+.timeline-wrapper {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  background: #f9f9f9;
+  padding: 2rem 0;
+}
+</style>
+
+<div class="timeline-wrapper">
+  <!-- your .timeline-container and timeline entries go here -->
+
 <div class="timeline-container">
 
   <div class="timeline-entry left">
@@ -129,4 +146,5 @@
     </div>
   </div>
 
+</div>
 </div>
