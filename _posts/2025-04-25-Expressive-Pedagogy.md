@@ -78,8 +78,8 @@
   <div class="timeline-item">
     <div class="timeline-content">
       <h3>
-        <img ![lecture](https://github.com/user-attachments/assets/69d202c4-e579-45e5-a4bc-1c13aa0bc3f2)
- alt="Peter Elbow" class="timeline-avatar"> Peter Elbow (1935–2025)
+        <img ![Peter Elbow](https://github.com/user-attachments/assets/69d202c4-e579-45e5-a4bc-1c13aa0bc3f2)
+ alt="Peter Elbow" class="timeline-avatar"> (1935–2025)
       </h3>
       <p>1968 – "A Method for Teaching Writing"<br>
          1973 – <em>Writing Without Teachers</em><br>
