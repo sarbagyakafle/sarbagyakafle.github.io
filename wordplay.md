@@ -3,18 +3,18 @@ layout: page
 title: WORDPLAY
 ---
 
-**Tihar**
-_crow_
-𓅃
-are you
-a mere scavenger?
-a messanger of the
-omnious,
-auspicious,or
-ambiguous?
-a cleverness on wings?
-a mythical Bhusundi?
-or a creative inspiration?
+**Tihar** <br>
+_crow_ <br>
+𓅃 <br>
+are you <br>
+a mere scavenger? <br>
+a messanger of the <br>
+omnious,<br>
+auspicious,or <br>
+ambiguous? <br>
+a cleverness on wings? <br>
+a mythical Bhusundi? <br>
+or a creative inspiration? <br>
 
 
 [**Morning run**](https://sarbagya.substack.com/p/morning-run)  <br>
