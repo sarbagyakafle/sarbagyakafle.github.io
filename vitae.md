@@ -9,12 +9,12 @@ Department of English <br>
 University of Louisiana at Lafayette <br>
 Lafayette, LA 70504-4691 <br>
 sarbagya.kafle1@louisiana.edu <br>
-sarbagyarajkafle@gmail.com
+sarbagyakafle@gmail.com
 
 
 **EDUCATION** 
 
-PhD Candidate, University of Louisiana at Lafayette, 2024. 
+PhD English, University of Louisiana at Lafayette, 2025. 
 
 MPhil English, Tribhuvan University, Central Department of English, Kirtipur, 2014. 
 
@@ -27,13 +27,13 @@ BA English & Soociology, Tribhuvan University, Makawanpur Multiple Campus, Hetau
 
 **ACADEMIC APPOINTMENTS** 
 
-Graduate Teaching Assitsant, University of Louisiana at Lafayette, Department of English, 2019-Present.
+Graduate Teaching Assitsant, University of Louisiana at Lafayette, Department of English, 2019-2025.
 
-Lecturer in Enlgish, Tribhuvan University, Central Department of English, Kirtipur, Nepal, 2016-Present.
+Lecturer in Enlgish, Tribhuvan University, Central Department of English, Kirtipur, Nepal, 2016-2019.
 
-Adjunct Professor of English at Pokhara University, IACER, Kathmandu, Nepal, 2017- 2018. 
+Adjunct Professor of English at Pokhara University, IACER, Kathmandu, Nepal, 2017-2018. 
 
-Lecturer in Enlgish, Tribhuvan University, Tri-Chandra Multiple Campus, Kathmandu, Nepal, 2012- 2016
+Lecturer in Enlgish, Tribhuvan University, Tri-Chandra Multiple Campus, Kathmandu, Nepal, 2012-2016.
 
 Lecturer in English, Tribhuvan University, Makawanpur Multiple Campus, Hetauda, Nepal, 2007- 2012.  
 
