@@ -5,7 +5,7 @@ title: WORDPLAY
 
 **Tihar** <br>
 _crow_ <br>
-𓅃 <br>
+🐦‍⬛ <br>
 are you <br>
 a mere scavenger? <br>
 a messanger of the <br>
@@ -17,6 +17,7 @@ a mythical Bhusundi? <br>
 or a creative inspiration? <br>
 
 _dog_ <br>
+🐕 <br>
 some people bless a fellow with <br>
 your loyalty <br>
 your friendship <br>
@@ -31,7 +32,7 @@ your-like-end <br>
 How do you feel about <br>
 humans? <br>
 
-Oct 19-22, 2025
+Oct 19-20, 2025
 
 
 
