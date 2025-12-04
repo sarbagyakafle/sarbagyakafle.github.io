@@ -2,6 +2,21 @@
 layout: page
 title: WORDPLAY
 ---
+
+**Tihar**
+_crow_
+𓅃
+are you
+a mere scavenger?
+a messanger of the
+omnious,
+auspicious,or
+ambiguous?
+a cleverness on wings?
+a mythical Bhusundi?
+or a creative inspiration?
+
+
 [**Morning run**](https://sarbagya.substack.com/p/morning-run)  <br>
 Taps of acorns woke me up early morning— <br>
 My fleeting feet on the crunchy leaves <br>
