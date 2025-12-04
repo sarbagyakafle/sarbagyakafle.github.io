@@ -31,7 +31,7 @@ Graduate Teaching Assitsant, University of Louisiana at Lafayette, Department of
 
 Lecturer in Enlgish, Tribhuvan University, Central Department of English, Kirtipur, Nepal, 2016-2019.
 
-Adjunct Professor of English at Pokhara University, IACER, Kathmandu, Nepal, 2017-2018. 
+Adjunct Faculty of English at Pokhara University, IACER, Kathmandu, Nepal, 2017-2018. 
 
 Lecturer in Enlgish, Tribhuvan University, Tri-Chandra Multiple Campus, Kathmandu, Nepal, 2012-2016.
 
