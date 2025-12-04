@@ -16,6 +16,23 @@ a cleverness on wings? <br>
 a mythical Bhusundi? <br>
 or a creative inspiration? <br>
 
+_dog_ <br>
+some people bless a fellow with <br>
+your loyalty <br>
+your friendship <br>
+your light sleep <br>
+your Bhairavhood <br>
+
+also curse another fellow as <br>
+you <br>
+your puppy <br>
+your-like-end <br>
+
+How do you feel about <br>
+humans?
+
+
+
 
 [**Morning run**](https://sarbagya.substack.com/p/morning-run)  <br>
 Taps of acorns woke me up early morning— <br>
