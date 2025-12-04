@@ -7,34 +7,31 @@ title: WORDPLAY
 _crow_ <br>
 🐦‍⬛ <br>
 are you <br>
-a mere scavenger? <br>
-a messanger of the <br>
-omnious,<br>
-auspicious,or <br>
-ambiguous? <br>
-a cleverness on wings? <br>
-a mythical Bhusundi? <br>
-or a creative inspiration? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;a mere scavenger? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;a messanger of the <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;omnious,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;auspicious, or <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ambiguous? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;a cleverness on wings? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;a mythical Bhusundi? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;or a creative inspiration? <br>
 
 _dog_ <br>
 🐕 <br>
 some people bless a fellow with <br>
-your loyalty <br>
-your friendship <br>
-your light sleep <br>
-your Bhairavhood <br>
+&nbsp;&nbsp;&nbsp;&nbsp;your loyalty <br>
+&nbsp;&nbsp;&nbsp;&nbsp;your friendship <br>
+&nbsp;&nbsp;&nbsp;&nbsp;your light sleep <br>
+&nbsp;&nbsp;&nbsp;&nbsp;your Bhairavhood <br>
 
 also curse another fellow as <br>
-you <br>
-your puppy <br>
-your-like-end <br>
+&nbsp;&nbsp;&nbsp;&nbsp;you <br>
+&nbsp;&nbsp;&nbsp;&nbsp;your puppy <br>
+&nbsp;&nbsp;&nbsp;&nbsp;your-like-end <br>
 
 How do you feel about <br>
 humans? <br>
-
 Oct 19-20, 2025
-
-
 
 
 [**Morning run**](https://sarbagya.substack.com/p/morning-run)  <br>
