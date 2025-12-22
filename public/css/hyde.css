@@ -266,7 +266,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Stronger weight for the main site title in the sidebar */
 .sidebar-about h1 {
-  font-weight: 700; /* Bold for your name/title */
+  font-weight: 500; /* Bold for your name/title */
 }
 
 /* Optional: Slightly tighter line height for sidebar nav if it feels too spacious */
