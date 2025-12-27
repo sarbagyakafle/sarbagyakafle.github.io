@@ -5,20 +5,17 @@ title: VITAE
 
 # SARBAGYA KAFLE 
 Department of English<br> 
-University of Louisiana at Lafayette 
-Lafayette, LA 70504 
-sarbagya.kafle1@louisiana.edu 
+University of Louisiana at Lafayette<br>  
+Lafayette, LA 70504<br>  
+sarbagya.kafle1@louisiana.edu<br>  
 sarbagyakafle@gmail.com
 
 ## EDUCATION 
 
-**PhD in English**, University of Louisiana at Lafayette, 2025 
-
-**MPhil in English**, Tribhuvan University, 2014 
-
-**MA in English**, Tribhuvan University, 2012 
-
-**BA in English and Sociology**, Tribhuvan University, 2007–2012
+**PhD in English**, University of Louisiana at Lafayette, 2025<br>  
+**MPhil in English**, Tribhuvan University, 2014<br> 
+**MA in English**, Tribhuvan University, 2066<br>  
+**BA in English and Sociology**, Tribhuvan University,2004<br> 
 
 
 ## ACADEMIC APPOINTMENTS
