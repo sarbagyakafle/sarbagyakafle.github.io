@@ -2,7 +2,7 @@
 .sidebar-about h1 a {
   font-family: "EB Garamond", serif;
   font-weight: 600;
-  font-size: 2.25rem;
+  font-size: 2rem;
   line-height: 1.2;
 }
 
@@ -23,7 +23,7 @@
 /* Body text */
 body {
   font-family: "Inter", sans-serif;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
   line-height: 1.5;
 }
 
