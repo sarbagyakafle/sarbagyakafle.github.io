@@ -35,8 +35,11 @@
 
     </nav>
 
-   <button id="theme-toggle" class="theme-toggle">🌙 Dark Mode</button> 
-    
+    <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+      <span class="icon-sun"></span>
+      <span class="icon-moon"></span>
+    </button> 
+  
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
