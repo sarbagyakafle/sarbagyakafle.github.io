@@ -12,7 +12,7 @@ sarbagya.kafle1@louisiana.edu
 sarbagyakafle@gmail.com  
 
 
-<h3 class="ebgaramond"><strong>EDUCATION</strong></h3>
+<h4 class="ebgaramond"><strong>EDUCATION</strong></h4>
 
 PhD in English, University of Louisiana at Lafayette, 2025
 
@@ -25,7 +25,6 @@ BEd in English, Tribhvuman University, 2007
 BA in English & Sociology, Tribhuvan University,2004
 
 <p class="ebgaramond"><strong>TEACHING AND RESEARCH INTERESTS</strong></p>
-
 Rhetoric and Composition  
 Transnational and Digital Rhetorics     
 First-Year Writing  
