@@ -229,34 +229,12 @@ body.theme-dark code {
   color: white;
 }
 
-/* ----------------------------
-   LIGHT MODE: black crescent moon
-   ---------------------------- */
-body.theme-light .icon-moon::before {
-  content: "";
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  border: 2px solid black;
-  box-shadow: -6px 0 0 0 white; /* cutout matches light background */
-  background: transparent;
-  display: block;
+/* White moon icon */
+.theme-toggle .icon-moon::before {
+  content: "🌙";
+  font-size: 22px;
+  color: white;
 }
-
-/* ----------------------------
-   DARK MODE: white crescent moon
-   ---------------------------- */
-body.theme-dark .icon-moon::before {
-  content: "";
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  border: 2px solid white;
-  box-shadow: -6px 0 0 0 #161b22; /* cutout matches dark sidebar */
-  background: transparent;
-  display: block;
-}
-
 
 /* Show correct icon depending on theme */
 body.theme-light .icon-moon {
@@ -274,5 +252,3 @@ body.theme-light .sidebar .copyright,
 body.theme-light .sidebar p {
   color: #555555 !important; /* or #111111 if you prefer darker */
 }
-
-
