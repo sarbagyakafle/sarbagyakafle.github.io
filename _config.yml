@@ -1,6 +1,6 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
+highlighter:      rogue
 
 # Permalinks
 permalink:        pretty
@@ -8,19 +8,22 @@ relative_permalinks:
 
 # Setup
 title:            Sarbagya Kafle
-tagline:          'Rhetoric, Writing, and Literature'
-description:      'Rhetoric, Writing, Literature'
-url:              sarbagyakafle.github.io
-baseurl:          /
+tagline:          "Rhetoric, Writing, and Literature"
+description:      "Rhetoric, Writing, Literature"
+url:              "https://sarbagyakafle.com"
+baseurl:          ""
 
 author:
-  name:           'Sarbagya Kafle'
-  url:            https://twitter.com/Sarbagya15
+  name:           "Sarbagya Kafle"
+  url:            "https://twitter.com/Sarbagya15"
 
 paginate:         5
+
+#Build settings
+theme: null
 
 # Custom vars
 version:          2.1.0
 
 github:          
-  repo:          https://github.com/sarbagyakafle/sarbagyakafle.github.io
+  repo:          "https://github.com/sarbagyakafle/sarbagyakafle.github.io"
