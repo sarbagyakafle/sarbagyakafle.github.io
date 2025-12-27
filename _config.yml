@@ -10,8 +10,8 @@ relative_permalinks:
 title:            Sarbagya Kafle
 tagline:          'Rhetoric, Writing, and Literature'
 description:      'Rhetoric, Writing, Literature'
-url:              https://sarbagyakafle.github.io
-baseurl:          https://sarbagyakafle.github.io/
+url:              https://sarbagyakafle.com
+baseurl:          /
 
 author:
   name:           'Sarbagya Kafle'
