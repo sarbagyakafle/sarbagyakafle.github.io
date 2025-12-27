@@ -5,6 +5,7 @@
   border-radius: 50% !important;
   display: block !important;
   margin: 0 auto 20px auto !important;
+  margin-bottom: 10px !important
 }
 
 
@@ -14,6 +15,7 @@
   font-weight: 600;
   font-size: 2.25rem;
   line-height: 1.2;
+  margin-top: 5px !important;
 }
 
 /* Sidebar description */
