@@ -193,13 +193,56 @@ body.theme-dark code {
 }
 
 
+/* ============================
+   THEME TOGGLE BUTTON (al-folio style)
+   ============================ */
 
 .theme-toggle {
   background: none;
-  border: 1px solid #ccc;
-  padding: 6px 10px;
-  border-radius: 6px;
+  border: none;
+  padding: 0;
   cursor: pointer;
-  font-size: 14px;
   margin-bottom: 15px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+/* Remove focus outline */
+.theme-toggle:focus {
+  outline: none;
+}
+
+/* Base icon style */
+.theme-toggle .icon-sun,
+.theme-toggle .icon-moon {
+  width: 22px;
+  height: 22px;
+  display: none;
+}
+
+/* White sun icon */
+.theme-toggle .icon-sun::before {
+  content: "☀";
+  font-size: 22px;
+  color: white;
+}
+
+/* White moon icon */
+.theme-toggle .icon-moon::before {
+  content: "🌙";
+  font-size: 22px;
+  color: white;
+}
+
+/* Show correct icon depending on theme */
+body.theme-light .icon-moon {
+  display: block;
+}
+
+body.theme-dark .icon-sun {
+  display: block;
+}
+
