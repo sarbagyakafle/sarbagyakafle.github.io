@@ -3,15 +3,14 @@ layout: page
 title: VITAE
 ---
 
-# SARBAGYA KAFLE
-
+**SARBAGYA KAFLE**  
 Department of English  
 University of Louisiana at Lafayette    
 Lafayette, LA 70504    
 sarbagya.kafle1@louisiana.edu    
 sarbagyakafle@gmail.com  
 
-## EDUCATION 
+**EDUCATION**   
 
 **PhD in English**, University of Louisiana at Lafayette, 2025
 
@@ -23,7 +22,7 @@ sarbagyakafle@gmail.com
 
 
 
-## ACADEMIC APPOINTMENTS
+**ACADEMIC APPOINTMENTS**
 
 2019-2025: Teaching Assitsant, University of Louisiana at Lafayette, Department of English.
 
@@ -37,7 +36,7 @@ sarbagyakafle@gmail.com
 
 2001-2004: Teacher, Mount Everest English Boarding School, Hetauda, Nepal.
 
-## CONFERENCE PAPERS
+**CONFERENCE PAPERS**
 
 “Encomia and Suspicion of Speech in the Ancient Greek and Hindu Rhetorics,” May 26. 2024, Rhetoric Society of America (RSA) Biennial Conference 2024, Denver CO, May 23-26, 2024. 
 
