@@ -110,3 +110,49 @@ pre, code {
 .sidebar {
   box-shadow: none !important;
 }
+
+/* ============================
+   LIGHT THEME (default)
+   ============================ */
+
+body.theme-light {
+  background: #ffffff;
+  color: #222222;
+}
+
+body.theme-light .sidebar {
+  background: #ffffff;
+  border-right: 1px solid #e5e5e5;
+}
+
+body.theme-light a {
+  color: #2a5db0;
+}
+
+/* ============================
+   DARK THEME
+   ============================ */
+
+body.theme-dark {
+  background: #0d1117;
+  color: #e6edf3;
+}
+
+body.theme-dark .sidebar {
+  background: #161b22;
+  border-right: 1px solid #30363d;
+}
+
+body.theme-dark a {
+  color: #79c0ff;
+}
+
+.theme-toggle {
+  background: none;
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
