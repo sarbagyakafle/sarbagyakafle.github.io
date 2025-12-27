@@ -21,7 +21,7 @@ sarbagyakafle@gmail.com
 **BA in English and Sociology**, Tribhuvan University, 2007–2012
 
 
-##ACADEMIC APPOINTMENTS
+## ACADEMIC APPOINTMENTS
 
 2019-2025: Teaching Assitsant, University of Louisiana at Lafayette, Department of English.
 
