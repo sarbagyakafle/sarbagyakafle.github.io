@@ -223,27 +223,53 @@ body.theme-dark code {
 }
 
 /* ----------------------------
-   BLACK SUN (minimal outline)
+   LIGHT MODE ICONS (black)
    ---------------------------- */
-.theme-toggle .icon-sun::before {
+
+/* Black sun */
+body.theme-light .icon-sun::before {
   content: "";
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  border: 2px solid black;   /* black outline */
+  border: 2px solid black;
+  display: block;
+}
+
+/* Black crescent moon */
+body.theme-light .icon-moon::before {
+  content: "";
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 2px solid black;
+  box-shadow: -6px 0 0 0 white; /* white cutout for crescent */
+  background: transparent;
   display: block;
 }
 
 /* ----------------------------
-   BLACK OUTLINED CRESCENT MOON
+   DARK MODE ICONS (white)
    ---------------------------- */
-.theme-toggle .icon-moon::before {
+
+/* White sun */
+body.theme-dark .icon-sun::before {
   content: "";
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  border: 2px solid black;   /* black outline */
-  box-shadow: -6px 0 0 0 white; /* creates crescent cutout */
+  border: 2px solid white;
+  display: block;
+}
+
+/* White crescent moon */
+body.theme-dark .icon-moon::before {
+  content: "";
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: -6px 0 0 0 #161b22; /* matches dark sidebar background */
   background: transparent;
   display: block;
 }
@@ -262,9 +288,5 @@ body.theme-light .sidebar .sidebar-nav,
 body.theme-light .sidebar .sidebar-nav-item,
 body.theme-light .sidebar .copyright,
 body.theme-light .sidebar p {
-  color: #555555 !important; /* or #111111 if you prefer darker */
+  color: #555555 !important;
 }
-
-
-
-
