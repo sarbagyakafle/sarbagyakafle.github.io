@@ -1,11 +1,12 @@
 .sidebar-image img {
-  width: 140px;
-  height: 140px;
-  object-fit: cover;
-  border-radius: 50%;
-  margin: 0 auto 20px auto;
-  display: block;
+  width: 140px !important;
+  height: 140px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  display: block !important;
+  margin: 0 auto 20px auto !important;
 }
+
 
 /* Sidebar title (your name) — scholarly serif */
 .sidebar-about h1 a {
