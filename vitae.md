@@ -3,46 +3,39 @@ layout: page
 title: VITAE
 ---
 
-**SARBAGYA KAFLE**
-
-Department of English <br>
-University of Louisiana at Lafayette <br>
-Lafayette, LA 70504-4691 <br>
-sarbagya.kafle1@louisiana.edu <br>
+# SARBAGYA KAFLE 
+Department of English 
+University of Louisiana at Lafayette 
+Lafayette, LA 70504 
+sarbagya.kafle1@louisiana.edu 
 sarbagyakafle@gmail.com
 
+## EDUCATION 
 
-**EDUCATION** 
+**PhD in English**, University of Louisiana at Lafayette, 2025 
 
-PhD English, University of Louisiana at Lafayette, 2025. 
+**MPhil in English**, Tribhuvan University, 2014 
 
-MPhil English, Tribhuvan University, Central Department of English, Kirtipur, 2014. 
+**MA in English**, Tribhuvan University, 2012 
 
-MA English, Tribhuvan University, Central Department of English, Kirtipur, 2006.
-
-BEd English, Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2007.  
-
-BA English & Soociology, Tribhuvan University, Makawanpur Multiple Campus, Hetauda, 2004.
+**BA in English and Sociology**, Tribhuvan University, 2007–2012
 
 
-**ACADEMIC APPOINTMENTS** 
+##ACADEMIC APPOINTMENTS
 
-Graduate Teaching Assitsant, University of Louisiana at Lafayette, Department of English, 2019-2025.
+2019-2025: Teaching Assitsant, University of Louisiana at Lafayette, Department of English.
 
-Lecturer in Enlgish, Tribhuvan University, Central Department of English, Kirtipur, Nepal, 2016-2019.
+2012-2019: Lecturer in Enlgish, Tribhuvan University,Nepal. 
 
-Adjunct Faculty of English, Nepal Open University, Kathmandu, Nepal, 2018. 
+2018-2018: Adjunct Faculty of English, Nepal Open University, Lalitpur, Nepal.
 
-Adjunct Faculty of English at Pokhara University, IACER, Kathmandu, Nepal, 2017-2018. 
+2017-2018: Adjunct Faculty of English at Pokhara University, IACER, Kathmandu, Nepal.
 
-Lecturer in Enlgish, Tribhuvan University, Tri-Chandra Multiple Campus, Kathmandu, Nepal, 2012-2016.
+2007-2012: Lecturer in English, Tribhuvan University, Makawanpur Multiple Campus, Hetauda, Nepal.
 
-Lecturer in English, Tribhuvan University, Makawanpur Multiple Campus, Hetauda, Nepal, 2007- 2012.  
+2001-2004: Teacher, Mount Everest English Boarding School, Hetauda, Nepal.
 
-Teacher, Mount Everest English Boarding School, Hetauda, Nepal, 2001-2004.
-
-
-**CONFERENCE PAPERS**
+## CONFERENCE PAPERS
 
 “Encomia and Suspicion of Speech in the Ancient Greek and Hindu Rhetorics,” May 26. 2024, Rhetoric Society of America (RSA) Biennial Conference 2024, Denver CO, May 23-26, 2024. 
 
