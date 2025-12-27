@@ -224,14 +224,14 @@ body.theme-dark code {
 
 /* White sun icon */
 .theme-toggle .icon-sun::before {
-  content: "☀";
+  content: "☀light";
   font-size: 22px;
   color: white;
 }
 
 /* White moon icon */
 .theme-toggle .icon-moon::before {
-  content: "🌙";
+  content: "🌙dark";
   font-size: 22px;
   color: white;
 }
