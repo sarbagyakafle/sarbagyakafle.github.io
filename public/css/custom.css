@@ -192,7 +192,6 @@ body.theme-dark code {
   color: #e6edf3 !important;
 }
 
-
 /* ============================
    THEME TOGGLE BUTTON (al-folio style)
    ============================ */
@@ -223,18 +222,30 @@ body.theme-dark code {
   display: none;
 }
 
-/* White sun icon */
+/* ----------------------------
+   BLACK SUN (minimal outline)
+   ---------------------------- */
 .theme-toggle .icon-sun::before {
-  content: "☀";
-  font-size: 22px;
-  color: white;
+  content: "";
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 2px solid black;   /* black outline */
+  display: block;
 }
 
-/* White moon icon */
+/* ----------------------------
+   BLACK OUTLINED CRESCENT MOON
+   ---------------------------- */
 .theme-toggle .icon-moon::before {
-  content: "🌙";
-  font-size: 22px;
-  color: white;
+  content: "";
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  border: 2px solid black;   /* black outline */
+  box-shadow: -6px 0 0 0 white; /* creates crescent cutout */
+  background: transparent;
+  display: block;
 }
 
 /* Show correct icon depending on theme */
@@ -253,4 +264,7 @@ body.theme-light .sidebar .copyright,
 body.theme-light .sidebar p {
   color: #555555 !important; /* or #111111 if you prefer darker */
 }
+
+
+
 
