@@ -222,56 +222,18 @@ body.theme-dark code {
   display: none;
 }
 
-/* ----------------------------
-   LIGHT MODE ICONS (black)
-   ---------------------------- */
-
-/* Black sun */
-body.theme-light .icon-sun::before {
-  content: "";
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  border: 2px solid black;
-  display: block;
+/* White sun icon */
+.theme-toggle .icon-sun::before {
+  content: "☀";
+  font-size: 22px;
+  color: white;
 }
 
-/* Black crescent moon */
-body.theme-light .icon-moon::before {
-  content: "";
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  border: 2px solid black;
-  box-shadow: -6px 0 0 0 white; /* white cutout for crescent */
-  background: transparent;
-  display: block;
-}
-
-/* ----------------------------
-   DARK MODE ICONS (white)
-   ---------------------------- */
-
-/* White sun */
-body.theme-dark .icon-sun::before {
-  content: "";
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  border: 2px solid white;
-  display: block;
-}
-
-/* White crescent moon */
-body.theme-dark .icon-moon::before {
-  content: "";
-  width: 18px;
-  height: 18px;
-  border-radius: 50%;
-  border: 2px solid white;
-  box-shadow: -6px 0 0 0 #0d1117; /* matches dark body background */
-  background: transparent;
-  display: block;
+/* White moon icon */
+.theme-toggle .icon-moon::before {
+  content: "🌙";
+  font-size: 22px;
+  color: white;
 }
 
 /* Show correct icon depending on theme */
@@ -288,5 +250,7 @@ body.theme-light .sidebar .sidebar-nav,
 body.theme-light .sidebar .sidebar-nav-item,
 body.theme-light .sidebar .copyright,
 body.theme-light .sidebar p {
-  color: #555555 !important;
+  color: #555555 !important; /* or #111111 if you prefer darker */
 }
+
+
