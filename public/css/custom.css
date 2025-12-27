@@ -251,6 +251,6 @@ body.theme-light .sidebar .sidebar-nav,
 body.theme-light .sidebar .sidebar-nav-item,
 body.theme-light .sidebar .copyright,
 body.theme-light .sidebar p {
-  color: #333333 !important; /* or #111111 if you prefer darker */
+  color: #555555 !important; /* or #111111 if you prefer darker */
 }
 
