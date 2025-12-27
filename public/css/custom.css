@@ -217,21 +217,21 @@ body.theme-dark code {
 /* Base icon style */
 .theme-toggle .icon-sun,
 .theme-toggle .icon-moon {
-  width: 22px;
-  height: 22px;
+  width: 20px;
+  height: 20px;
   display: none;
 }
 
 /* White sun icon */
 .theme-toggle .icon-sun::before {
-  content: "☀ light";
+  content: "☀light";
   font-size: 20px;
   color: white;
 }
 
 /* White moon icon */
 .theme-toggle .icon-moon::before {
-  content: "🌙 dark";
+  content: "🌙dark";
   font-size: 20px;
   color: black;
 }
