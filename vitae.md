@@ -12,7 +12,7 @@ sarbagya.kafle1@louisiana.edu
 sarbagyakafle@gmail.com  
 
 
-<p class="ebgaramond"><strong>EDUCATION</strong></p>
+<h3 class="ebgaramond"><strong>EDUCATION</strong></h3>
 
 PhD in English, University of Louisiana at Lafayette, 2025
 
@@ -20,10 +20,20 @@ MPhil in English, Tribhuvan University, 2014
 
 MA in English, Tribhuvan University, 2006
 
-BA in English and Sociology, Tribhuvan University,2004
+BEd in English, Tribhvuman University, 2007
 
+BA in English & Sociology, Tribhuvan University,2004
 
-<p class="ebgaramond"><strong>EDUCATION</strong></p> 
+<p class="ebgaramond"><strong>TEACHING AND RESEARCH INTERESTS</strong></p>
+
+Rhetoric and Composition  
+Transnational and Digital Rhetorics     
+First-Year Writing  
+AmericanLiterature (19th and 20th Century)   
+Cultural Studies   
+Folklore  
+
+<p class="ebgaramond"><strong>ACADEMIC APPOINTMENTS</strong></p> 
 
 2019-2025: Teaching Assitsant, University of Louisiana at Lafayette, Department of English.
 
