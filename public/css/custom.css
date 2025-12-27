@@ -289,11 +289,22 @@ body.theme-light .sidebar .copyright,
 body.theme-light .sidebar p {
   color: #555555 !important; /* or #111111 if you prefer darker */
 }
+
 /* ============================================
-   DARK MODE — FIX BODY HEADINGS (VITAE, etc.)
+   DARK MODE — FINAL FIX FOR ALL HEADINGS
    ============================================ */
 
-/* Headings inside content area */
+/* Generic headings */
+body.theme-dark h1,
+body.theme-dark h2,
+body.theme-dark h3,
+body.theme-dark h4,
+body.theme-dark h5,
+body.theme-dark h6 {
+  color: #e6edf3 !important;
+}
+
+/* Headings inside .content */
 body.theme-dark .content h1,
 body.theme-dark .content h2,
 body.theme-dark .content h3,
@@ -303,7 +314,7 @@ body.theme-dark .content h6 {
   color: #e6edf3 !important;
 }
 
-/* Headings inside Markdown-rendered pages */
+/* Headings inside .page-content */
 body.theme-dark .page-content h1,
 body.theme-dark .page-content h2,
 body.theme-dark .page-content h3,
@@ -313,7 +324,7 @@ body.theme-dark .page-content h6 {
   color: #e6edf3 !important;
 }
 
-/* Headings inside posts */
+/* Headings inside .post-content */
 body.theme-dark .post-content h1,
 body.theme-dark .post-content h2,
 body.theme-dark .post-content h3,
@@ -323,7 +334,18 @@ body.theme-dark .post-content h6 {
   color: #e6edf3 !important;
 }
 
-
-
-
-
+/* Hyde-specific wrappers */
+body.theme-dark .page h1,
+body.theme-dark .page h2,
+body.theme-dark .page h3,
+body.theme-dark .page h4,
+body.theme-dark .page h5,
+body.theme-dark .page h6,
+body.theme-dark .post h1,
+body.theme-dark .post h2,
+body.theme-dark .post h3,
+body.theme-dark .post h4,
+body.theme-dark .post h5,
+body.theme-dark .post h6 {
+  color: #e6edf3 !important;
+}
