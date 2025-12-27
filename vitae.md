@@ -3,7 +3,8 @@ layout: page
 title: VITAE
 ---
 
-<p class="ebgaramond"><strong>SARBAGYA KAFLE</strong></p>    
+<p class="ebgaramond"><strong>SARBAGYA KAFLE</strong></p>
+
 Department of English  
 University of Louisiana at Lafayette    
 Lafayette, LA 70504    
