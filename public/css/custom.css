@@ -228,40 +228,6 @@ body.theme-dark .page-title a {
   color: #e6edf3 !important;
 }
 
-/* ============================================
-   DARK MODE — FIX BODY HEADINGS (VITAE, etc.)
-   ============================================ */
-
-/* Headings inside content area */
-body.theme-dark .content h1,
-body.theme-dark .content h2,
-body.theme-dark .content h3,
-body.theme-dark .content h4,
-body.theme-dark .content h5,
-body.theme-dark .content h6 {
-  color: #e6edf3 !important;
-}
-
-/* Headings inside Markdown-rendered pages */
-body.theme-dark .page-content h1,
-body.theme-dark .page-content h2,
-body.theme-dark .page-content h3,
-body.theme-dark .page-content h4,
-body.theme-dark .page-content h5,
-body.theme-dark .page-content h6 {
-  color: #e6edf3 !important;
-}
-
-/* Headings inside posts */
-body.theme-dark .post-content h1,
-body.theme-dark .post-content h2,
-body.theme-dark .post-content h3,
-body.theme-dark .post-content h4,
-body.theme-dark .post-content h5,
-body.theme-dark .post-content h6 {
-  color: #e6edf3 !important;
-}
-
 
 /* ============================
    THEME TOGGLE BUTTON (al-folio style)
@@ -323,3 +289,41 @@ body.theme-light .sidebar .copyright,
 body.theme-light .sidebar p {
   color: #555555 !important; /* or #111111 if you prefer darker */
 }
+/* ============================================
+   DARK MODE — FIX BODY HEADINGS (VITAE, etc.)
+   ============================================ */
+
+/* Headings inside content area */
+body.theme-dark .content h1,
+body.theme-dark .content h2,
+body.theme-dark .content h3,
+body.theme-dark .content h4,
+body.theme-dark .content h5,
+body.theme-dark .content h6 {
+  color: #e6edf3 !important;
+}
+
+/* Headings inside Markdown-rendered pages */
+body.theme-dark .page-content h1,
+body.theme-dark .page-content h2,
+body.theme-dark .page-content h3,
+body.theme-dark .page-content h4,
+body.theme-dark .page-content h5,
+body.theme-dark .page-content h6 {
+  color: #e6edf3 !important;
+}
+
+/* Headings inside posts */
+body.theme-dark .post-content h1,
+body.theme-dark .post-content h2,
+body.theme-dark .post-content h3,
+body.theme-dark .post-content h4,
+body.theme-dark .post-content h5,
+body.theme-dark .post-content h6 {
+  color: #e6edf3 !important;
+}
+
+
+
+
+
