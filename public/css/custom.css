@@ -334,3 +334,11 @@ body.theme-light .sidebar .copyright,
 body.theme-light .sidebar p {
   color: #555555 !important; /* or #111111 if you prefer darker */
 }
+
+/* ============================
+   Optional fonts to be used in Markdon content.
+   ============================ */
+.ebgaramond { font-family: "EB Garamond", serif !important; }
+.inter { font-family: "Inter", sans-serif !important; }
+.calibri { font-family: "Calibri", sans-serif !important; }
+
