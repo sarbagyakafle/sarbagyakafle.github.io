@@ -232,7 +232,7 @@ body.theme-dark code {
 
 /* White moon icon */
 .theme-toggle .icon-moon::before {
-  content: "🌙";
+  content: "⏾";
   font-size: 22px;
   color: white;
 }
