@@ -1,28 +1,37 @@
-/* Change font face of your name (sidebar title) */
+/* Sidebar title (your name) — scholarly serif */
 .sidebar-about h1 a {
-  font-family: "Georgia", "Times New Roman", serif; /* choose any font you like */
-  font-size: 1.8rem;  /* smaller than Hyde default */
-  font-weight: 700;
+  font-family: "EB Garamond", serif;
+  font-weight: 600;
+  font-size: 1.8rem;
   line-height: 1.2;
 }
 
-/* Reduce description text */
+/* Sidebar description */
 .sidebar-about .lead {
+  font-family: "Inter", sans-serif;
   font-size: 0.95rem;
   line-height: 1.4;
 }
 
-/* Reduce nav link size */
+/* Navigation links */
 .sidebar-nav-item {
+  font-family: "Inter", sans-serif;
   font-size: 0.95rem;
+  font-weight: 400;
 }
 
-/* Optional: reduce title further on small screens */
-@media (max-width: 1200px) {
-  .sidebar-about h1 a {
-    font-size: 1.5rem;
-  }
-  .sidebar-about .lead {
-    font-size: 0.85rem;
-  }
+/* Body text */
+body {
+  font-family: "Inter", sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Page titles (inside content area) */
+.page-title,
+.post-title {
+  font-family: "EB Garamond", serif;
+  font-weight: 600;
+  font-size: 2rem;
+  margin-bottom: 0.5em;
 }
