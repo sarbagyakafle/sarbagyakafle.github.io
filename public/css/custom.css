@@ -1,0 +1,28 @@
+/* Change font face of your name (sidebar title) */
+.sidebar-about h1 a {
+  font-family: "Georgia", "Times New Roman", serif; /* choose any font you like */
+  font-size: 1.8rem;  /* smaller than Hyde default */
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+/* Reduce description text */
+.sidebar-about .lead {
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
+
+/* Reduce nav link size */
+.sidebar-nav-item {
+  font-size: 0.95rem;
+}
+
+/* Optional: reduce title further on small screens */
+@media (max-width: 1200px) {
+  .sidebar-about h1 a {
+    font-size: 1.5rem;
+  }
+  .sidebar-about .lead {
+    font-size: 0.85rem;
+  }
+}
