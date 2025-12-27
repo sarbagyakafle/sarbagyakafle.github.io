@@ -47,3 +47,66 @@ body {
   font-size: 2rem;
   margin-bottom: 0.5em;
 }
+
+/* ================================
+   Minimalist White Theme Overrides
+   ================================ */
+
+/* Sidebar: pure white, subtle border */
+.sidebar {
+  background-color: #ffffff !important;
+  border-right: 1px solid #e5e5e5 !important;
+}
+
+/* Sidebar text: soft charcoal */
+.sidebar a,
+.sidebar .sidebar-nav-item,
+.sidebar .lead {
+  color: #333333 !important;
+}
+
+/* Sidebar title (your name) */
+.sidebar .sidebar-about h1 {
+  color: #111111 !important;
+}
+
+/* Main content background */
+.content {
+  background-color: #ffffff !important;
+}
+
+/* Body text: dark gray for readability */
+body {
+  color: #222222 !important;
+}
+
+/* Headings: slightly darker for hierarchy */
+h1, h2, h3, h4, h5, h6 {
+  color: #111111 !important;
+}
+
+/* Links: minimalist muted blue */
+a {
+  color: #2a5db0 !important;
+}
+
+a:hover {
+  color: #1a3f7a !important;
+  text-decoration: none;
+}
+
+/* Horizontal rules: faint */
+hr {
+  border-color: #e6e6e6 !important;
+}
+
+/* Code blocks: light gray background */
+pre, code {
+  background-color: #f7f7f7 !important;
+  color: #333333 !important;
+}
+
+/* Remove sidebar shadow if Hyde adds one */
+.sidebar {
+  box-shadow: none !important;
+}
