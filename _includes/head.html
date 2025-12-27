@@ -39,22 +39,20 @@ document.addEventListener("DOMContentLoaded", function () {
   const saved = localStorage.getItem("theme");
   if (saved) {
     body.className = saved;
-    toggle.textContent = saved === "theme-dark" ? "🌞 Light Mode" : "🌙 Dark Mode";
   }
 
   // Toggle theme
   toggle.addEventListener("click", function () {
     if (body.classList.contains("theme-light")) {
       body.classList.replace("theme-light", "theme-dark");
-      toggle.textContent = "🌞 Light Mode";
       localStorage.setItem("theme", "theme-dark");
     } else {
       body.classList.replace("theme-dark", "theme-light");
-      toggle.textContent = "🌙 Dark Mode";
       localStorage.setItem("theme", "theme-light");
     }
   });
 });
 </script>
+
 
 </head>
