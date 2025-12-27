@@ -3,7 +3,7 @@ layout: page
 title: VITAE
 ---
 
-<p class="ebgaramond"><strong>SARBAGYA KAFLE</strong></p>
+<h4 class="ebgaramond"><strong>SARBAGYA KAFLE</strong></h4>
 
 Department of English  
 University of Louisiana at Lafayette    
@@ -24,7 +24,7 @@ BEd in English, Tribhvuman University, 2007
 
 BA in English & Sociology, Tribhuvan University,2004
 
-<p class="ebgaramond"><strong>TEACHING AND RESEARCH INTERESTS</strong></p>
+<h4 class="ebgaramond"><strong>TEACHING AND RESEARCH INTERESTS</strong></h4>
 Rhetoric and Composition  
 Transnational and Digital Rhetorics     
 First-Year Writing  
@@ -32,7 +32,7 @@ AmericanLiterature (19th and 20th Century)
 Cultural Studies   
 Folklore  
 
-<p class="ebgaramond"><strong>ACADEMIC APPOINTMENTS</strong></p> 
+<h4 class="ebgaramond"><strong>ACADEMIC APPOINTMENTS</strong></h4> 
 
 2019-2025: Teaching Assitsant, University of Louisiana at Lafayette, Department of English.
 
@@ -46,7 +46,7 @@ Folklore
 
 2001-2004: Teacher, Mount Everest English Boarding School, Hetauda, Nepal.
 
-<p class="ebgaramond"><strong>CONFERENCE PAPERS</strong></p>
+<h4 class="ebgaramond"><strong>CONFERENCE PAPERS</strong></h4>
 
 “Encomia and Suspicion of Speech in the Ancient Greek and Hindu Rhetorics,” May 26. 2024, Rhetoric Society of America (RSA) Biennial Conference 2024, Denver CO, May 23-26, 2024. 
 
