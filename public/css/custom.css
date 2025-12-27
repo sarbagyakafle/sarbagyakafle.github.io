@@ -212,7 +212,27 @@ body.theme-dark h6 {
   color: #e6edf3 !important;
 }
 
-/* Hyde sometimes wraps headings inside .post-content */
+/* Headings inside .content */ 
+body.theme-dark .content h1, 
+body.theme-dark .content h2, 
+body.theme-dark .content h3, 
+body.theme-dark .content h4, 
+body.theme-dark .content h5, 
+body.theme-dark .content h6 { 
+  color: #e6edf3 !important; 
+} 
+
+/* Headings inside .page-content */ 
+body.theme-dark .page-content h1, 
+body.theme-dark .page-content h2, 
+body.theme-dark .page-content h3, 
+body.theme-dark .page-content h4, 
+body.theme-dark .page-content h5, 
+body.theme-dark .page-content h6 { 
+  color: #e6edf3 !important;
+}
+
+/* Hheadings inside .post-content */
 body.theme-dark .post-content h1,
 body.theme-dark .post-content h2,
 body.theme-dark .post-content h3,
@@ -222,12 +242,37 @@ body.theme-dark .post-content h6 {
   color: #e6edf3 !important;
 }
 
+/* Hyde-specific wrappers */ 
+body.theme-dark .page h1, 
+body.theme-dark .page h2, 
+body.theme-dark .page h3, 
+body.theme-dark .page h4, 
+body.theme-dark .page h5, 
+body.theme-dark .page h6, 
+body.theme-dark .post h1, 
+body.theme-dark .post h2, 
+body.theme-dark .post h3, 
+body.theme-dark .post h4, 
+body.theme-dark .post h5, 
+body.theme-dark .post h6 { 
+  color: #e6edf3 !important; 
+}
+
 /* Links inside headings */
 body.theme-dark .post-title a,
 body.theme-dark .page-title a {
   color: #e6edf3 !important;
 }
 
+/* ============================================
+   DARK MODE — FIX BOLD TEXT (strong, b)
+   ============================================ */
+
+body.theme-dark strong,
+body.theme-dark b {
+  color: #e6edf3 !important; /* same as your main text color */
+  font-weight: 600 !important; /* optional: makes bold more visible */
+}
 
 /* ============================
    THEME TOGGLE BUTTON (al-folio style)
@@ -288,64 +333,4 @@ body.theme-light .sidebar .sidebar-nav-item,
 body.theme-light .sidebar .copyright,
 body.theme-light .sidebar p {
   color: #555555 !important; /* or #111111 if you prefer darker */
-}
-
-/* ============================================
-   DARK MODE — FINAL FIX FOR ALL HEADINGS
-   ============================================ */
-
-/* Generic headings */
-body.theme-dark h1,
-body.theme-dark h2,
-body.theme-dark h3,
-body.theme-dark h4,
-body.theme-dark h5,
-body.theme-dark h6 {
-  color: #e6edf3 !important;
-}
-
-/* Headings inside .content */
-body.theme-dark .content h1,
-body.theme-dark .content h2,
-body.theme-dark .content h3,
-body.theme-dark .content h4,
-body.theme-dark .content h5,
-body.theme-dark .content h6 {
-  color: #e6edf3 !important;
-}
-
-/* Headings inside .page-content */
-body.theme-dark .page-content h1,
-body.theme-dark .page-content h2,
-body.theme-dark .page-content h3,
-body.theme-dark .page-content h4,
-body.theme-dark .page-content h5,
-body.theme-dark .page-content h6 {
-  color: #e6edf3 !important;
-}
-
-/* Headings inside .post-content */
-body.theme-dark .post-content h1,
-body.theme-dark .post-content h2,
-body.theme-dark .post-content h3,
-body.theme-dark .post-content h4,
-body.theme-dark .post-content h5,
-body.theme-dark .post-content h6 {
-  color: #e6edf3 !important;
-}
-
-/* Hyde-specific wrappers */
-body.theme-dark .page h1,
-body.theme-dark .page h2,
-body.theme-dark .page h3,
-body.theme-dark .page h4,
-body.theme-dark .page h5,
-body.theme-dark .page h6,
-body.theme-dark .post h1,
-body.theme-dark .post h2,
-body.theme-dark .post h3,
-body.theme-dark .post h4,
-body.theme-dark .post h5,
-body.theme-dark .post h6 {
-  color: #e6edf3 !important;
 }
