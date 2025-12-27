@@ -233,7 +233,7 @@ body.theme-dark code {
 .theme-toggle .icon-moon::before {
   content: "🌙";
   font-size: 22px;
-  color: white;
+  color: black;
 }
 
 /* Show correct icon depending on theme */
