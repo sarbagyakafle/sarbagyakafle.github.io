@@ -12,21 +12,19 @@ sarbagyakafle@gmail.com
 
 **EDUCATION**   
 
-**PhD in English**, University of Louisiana at Lafayette, 2025
+PhD in English, University of Louisiana at Lafayette, 2025
 
-**MPhil in English**, Tribhuvan University, 2014
+MPhil in English, Tribhuvan University, 2014
 
-**MA in English**, Tribhuvan University, 2066
+MA in English, Tribhuvan University, 2006
 
-**BA in English and Sociology**, Tribhuvan University,2004
-
-
+BA in English and Sociology, Tribhuvan University,2004
 
 **ACADEMIC APPOINTMENTS**
 
 2019-2025: Teaching Assitsant, University of Louisiana at Lafayette, Department of English.
 
-2012-2019: Lecturer in Enlgish, Tribhuvan University,Nepal. 
+2012-2019: Lecturer in English, Tribhuvan University,Nepal. 
 
 2018-2018: Adjunct Faculty of English, Nepal Open University, Lalitpur, Nepal.
 
