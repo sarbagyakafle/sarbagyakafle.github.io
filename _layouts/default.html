@@ -5,14 +5,23 @@
 
   <body class="theme-light">
 
-    <!-- TOP NAVIGATION -->
     <nav class="top-nav">
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/vitae/' | relative_url }}">Vitae</a>
-      <a href="{{ '/research/' | relative_url }}">Research</a>
-      <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
-    </nav>
+
+  <div class="nav-links">
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/vitae/' | relative_url }}">Vitae</a>
+    <a href="{{ '/research/' | relative_url }}">Research</a>
+    <a href="{{ '/teaching/' | relative_url }}">Teaching</a>
+    <a href="{{ '/about/' | relative_url }}">About</a>
+  </div>
+
+  <div class="nav-actions">
+    <input type="text" class="nav-search" placeholder="Search...">
+    <button class="theme-toggle" id="theme-toggle"></button>
+  </div>
+
+</nav>
+
 
     {% include sidebar.html %}
 
