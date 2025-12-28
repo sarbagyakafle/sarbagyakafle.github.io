@@ -342,3 +342,32 @@ body.theme-light .sidebar p {
 .inter { font-family: "Inter", sans-serif !important; }
 .calibri { font-family: "Calibri", sans-serif !important; }
 
+
+
+/* ============================
+   TOP NAVIGATION RIBBON
+   ============================ */
+
+.top-nav {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 12px 20px;
+  z-index: 9999;
+}
+
+.top-nav a {
+  margin-left: 20px;
+  font-family: Inter, sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+body.theme-dark .top-nav a {
+  color: #e6edf3;
+}
+
+.top-nav a:hover {
+  text-decoration: underline;
+}
