@@ -92,3 +92,52 @@
 }
 
 
+/* -----------------------------------------------------------
+   MATCH BEAUTIFUL JEKYLL DARK MODE EXACTLY
+----------------------------------------------------------- */
+
+/* 1. Uniform dark background everywhere */
+.dark-mode html,
+.dark-mode body {
+  background-color: #1e1e1e !important;
+  color: #e0e0e0 !important;
+}
+
+/* 2. Post preview area should NOT be lighter */
+.dark-mode .post-preview,
+.dark-mode .post-preview:hover {
+  background-color: #1e1e1e !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* 3. Remove card/well backgrounds */
+.dark-mode .card,
+.dark-mode .well,
+.dark-mode .post,
+.dark-mode .post-content {
+  background-color: #1e1e1e !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+/* 4. Make all text light gray */
+.dark-mode .post-title,
+.dark-mode .post-meta,
+.dark-mode p,
+.dark-mode li,
+.dark-mode span,
+.dark-mode div {
+  color: #e0e0e0 !important;
+}
+
+/* 5. Links: light gray normally, blue on hover */
+.dark-mode a {
+  color: #e0e0e0 !important;
+}
+
+.dark-mode a:hover,
+.dark-mode .post-title:hover {
+  color: #0085a1 !important; /* Beautiful Jekyll blue */
+}
+
