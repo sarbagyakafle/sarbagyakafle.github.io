@@ -4,15 +4,14 @@
 
 /* Light mode (default) */
 :root {
-  --bg-color: #ffffff;
-  --text-color: #222222;
-  --link-color: #007bff;
-
+  --bg-color: #fdfdfd;        /* softer than pure white */
+  --text-color: #333333;      /* Beautiful Jekyll default */
+  --link-color: #268bd2;      /* original theme blue */
   --navbar-bg: #ffffff;
-  --navbar-text: #222222;
+  --navbar-text: #333333;
 
   --card-bg: #ffffff;
-  --card-border: #dddddd;
+  --card-border: #e5e5e5;
 }
 
 /* Dark mode overrides */
