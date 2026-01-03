@@ -39,6 +39,12 @@
         </li>
       {%- endif -%}
     </ul>
+    <!-- Theme toggle button -->
+    <button 
+        id="theme-toggle" 
+        class="btn btn-sm btn-outline-secondary ml-3" title="Toggle dark mode">
+        <i class="fas fa-moon"></i>
+    </button>    
   </div>
 
   {% if site.navbar-extra %}
@@ -53,7 +59,7 @@
         <a href="{{ '/' | absolute_url }}">
           <img alt="Navigation bar avatar" class="avatar-img" src="{{ site.avatar | relative_url }}" />
         </a>
-      </div>
+      </div>   
     </div>
   {% endif %}
 
