@@ -1,51 +1,90 @@
+/* -----------------------------------------------------------
+   THEME VARIABLES
+----------------------------------------------------------- */
+
 /* Light mode (default) */
 :root {
   --bg-color: #ffffff;
   --text-color: #222222;
   --link-color: #007bff;
+
   --navbar-bg: #ffffff;
   --navbar-text: #222222;
+
+  --card-bg: #ffffff;
+  --card-border: #dddddd;
 }
 
-/* Dark mode */
+/* Dark mode overrides */
 .dark-mode {
   --bg-color: #1e1e1e;
   --text-color: #e0e0e0;
   --link-color: #66aaff;
+
   --navbar-bg: #2a2a2a;
   --navbar-text: #e0e0e0;
+
+  --card-bg: #2a2a2a;
+  --card-border: #444444;
 }
 
-/* Apply variables */
-body {
-  background-color: var(--bg-color);
-  color: var(--text-color);
+/* -----------------------------------------------------------
+   GLOBAL OVERRIDES (force Beautiful Jekyll to obey variables)
+----------------------------------------------------------- */
+
+html, body {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+  transition: background-color 0.25s ease, color 0.25s ease;
 }
 
 a {
-  color: var(--link-color);
+  color: var(--link-color) !important;
 }
 
-.navbar {
+/* -----------------------------------------------------------
+   NAVBAR
+----------------------------------------------------------- */
+
+.navbar,
+.navbar-custom {
   background-color: var(--navbar-bg) !important;
+  color: var(--navbar-text) !important;
+  transition: background-color 0.25s ease, color 0.25s ease;
 }
 
 .navbar a,
-.navbar-brand {
+.navbar-brand,
+.nav-link {
   color: var(--navbar-text) !important;
 }
 
-/* Smooth transition */
-body, .navbar {
-  transition: background-color 0.25s ease, color 0.25s ease;
+/* -----------------------------------------------------------
+   CARDS / POSTS / CONTENT BLOCKS
+----------------------------------------------------------- */
+
+.card,
+.post-preview,
+.well,
+pre,
+code {
+  background-color: var(--card-bg) !important;
+  border-color: var(--card-border) !important;
+  color: var(--text-color) !important;
 }
+
+/* -----------------------------------------------------------
+   THEME TOGGLE BUTTON
+----------------------------------------------------------- */
 
 #theme-toggle {
   border: none !important;
   background: none !important;
   box-shadow: none !important;
   outline: none !important;
-  padding: 0;
+  padding: 0 !important;
+  margin-left: 1rem;
+  cursor: pointer;
 }
 
 #theme-toggle:hover,
@@ -56,19 +95,8 @@ body, .navbar {
   outline: none !important;
 }
 
-html, body {
-  background-color: var(--bg-color) !important;
-  color: var(--text-color) !important;
-}
-
-.navbar,
-.navbar-custom {
-  background-color: var(--navbar-bg) !important;
+#theme-toggle i {
+  font-size: 1.25rem;
   color: var(--navbar-text) !important;
-}
-
-.navbar a,
-.navbar-brand,
-.nav-link {
-  color: var(--navbar-text) !important;
+  transition: color 0.25s ease;
 }
