@@ -10,6 +10,14 @@
     <span class="navbar-toggler-icon"></span>
   </button>
 
+  <!-- ⭐ Theme toggle stays visible even when collapsed -->
+    <button 
+        id="theme-toggle" 
+        class="btn btn-sm btn-outline-secondary ml-3" title="Toggle dark mode">
+        <i class="fas fa-moon"></i>
+    </button>  
+  
+  <!-- Collapsible nav items -->
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
       {%- for link in site.navbar-links -%}
@@ -38,13 +46,7 @@
           </a>
         </li>
       {%- endif -%}
-    </ul>
-    <!-- Theme toggle button -->
-    <button 
-        id="theme-toggle" 
-        class="btn btn-sm btn-outline-secondary ml-3" title="Toggle dark mode">
-        <i class="fas fa-moon"></i>
-    </button>    
+    </ul>  
   </div>
 
   {% if site.navbar-extra %}
