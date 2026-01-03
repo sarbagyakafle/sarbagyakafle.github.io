@@ -102,7 +102,7 @@ code {
 }
 
 #theme-toggle i {
-  font-size: 1rem !important;   /* smaller than before */
+  font-size: 0.9rem !important;   /* smaller than before */
   line-height: 1 !important;
 }
 
