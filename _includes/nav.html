@@ -8,12 +8,24 @@
     <a class="navbar-brand" href="{{ '/' | absolute_url }}">{{ site.title }}</a>
   {%- endif -%}
 
-  <!-- Hamburger (mobile only) -->
+  <!-- ⭐ Spacer pushes toggle + hamburger to the right -->
+  <div class="flex-grow-1"></div>
+
+  <!-- ⭐ Always-visible theme toggle -->
+  <button 
+      id="theme-toggle" 
+      class="btn btn-sm btn-outline-secondary mr-2" 
+      title="Toggle dark mode">
+      <i class="fas fa-moon"></i>
+  </button>
+
+  <!-- ⭐ Hamburger stays right-aligned on mobile -->
   <button class="navbar-toggler" type="button" data-toggle="collapse"
           data-target="#main-navbar" aria-controls="main-navbar"
           aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
+
 
   <!-- Collapsible nav items (appear BEFORE toggle on wide screens) -->
   <div class="collapse navbar-collapse" id="main-navbar">
