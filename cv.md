@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 <embed 
-    src="Kafle-CV.pdf"
+    src="Kafle_CV.pdf"
     type="application/pdf"
     width="100%"
     height="1000px"/>
