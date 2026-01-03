@@ -141,3 +141,24 @@
   color: #0085a1 !important; /* Beautiful Jekyll blue */
 }
 
+
+/* Match Beautiful Jekyll's slightly lighter footer in dark mode */
+.dark-mode footer,
+.dark-mode .footer,
+.dark-mode .site-footer {
+  background-color: #2a2a2a !important; /* slightly lighter than main bg */
+  color: #cccccc !important;
+  border-top: none !important;
+}
+
+/* Footer links */
+.dark-mode .footer a,
+.dark-mode .site-footer a {
+  color: #cccccc !important;
+}
+
+.dark-mode .footer a:hover,
+.dark-mode .site-footer a:hover {
+  color: #0085a1 !important; /* Beautiful Jekyll blue */
+}
+
