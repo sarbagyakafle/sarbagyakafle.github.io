@@ -57,6 +57,20 @@
 /* -----------------------------------------------------------
    THEME TOGGLE BUTTON
 ----------------------------------------------------------- */
+/* Remove outline, border, and background from the theme toggle button */
+#theme-toggle,
+#theme-toggle:focus,
+#theme-toggle:hover,
+#theme-toggle:active {
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
 
-#theme-toggle {
-  border: none !
+/* Adjust icon size to match navbar text */
+#theme-toggle i {
+  font-size: 0.95rem !important;
+  line-height: 1 !important;
+}
+
