@@ -100,3 +100,9 @@ code {
   color: var(--navbar-text) !important;
   transition: color 0.25s ease;
 }
+
+#theme-toggle i {
+  font-size: 1rem !important;   /* smaller than before */
+  line-height: 1 !important;
+}
+
