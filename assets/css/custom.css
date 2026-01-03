@@ -54,6 +54,18 @@
   color: var(--text-color) !important;
 }
 
+/* Dark mode link color (default = light text, hover = blue) */
+.dark-mode a {
+  color: var(--text-color) !important;   /* light gray / white */
+}
+
+.dark-mode a:hover,
+.dark-mode .post-preview .post-title:hover,
+.dark-mode .post-title:hover {
+  color: #0085a1 !important;             /* Beautiful Jekyll blue */
+}
+
+
 /* -----------------------------------------------------------
    THEME TOGGLE BUTTON
 ----------------------------------------------------------- */
