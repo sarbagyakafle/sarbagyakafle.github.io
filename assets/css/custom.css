@@ -1,14 +1,13 @@
 /* -----------------------------------------------------------
-   THEME VARIABLES
+   DARK MODE VARIABLES
+   Light mode uses Beautiful Jekyll defaults (no overrides)
 ----------------------------------------------------------- */
 
-/* Light mode uses Beautiful Jekyll defaults — no overrides */
-
-/* Dark mode only */
 .dark-mode {
   --bg-color: #1e1e1e;
   --text-color: #e0e0e0;
   --link-color: #66aaff;
+
   --navbar-bg: #2a2a2a;
   --navbar-text: #e0e0e0;
 
@@ -16,47 +15,40 @@
   --card-border: #444444;
 }
 
-
 /* -----------------------------------------------------------
-   GLOBAL OVERRIDES (force Beautiful Jekyll to obey variables)
+   DARK MODE GLOBAL OVERRIDES
 ----------------------------------------------------------- */
 
-html, body {
+.dark-mode html,
+.dark-mode body {
   background-color: var(--bg-color) !important;
   color: var(--text-color) !important;
   transition: background-color 0.25s ease, color 0.25s ease;
 }
 
-a {
+.dark-mode a {
   color: var(--link-color) !important;
 }
 
-/* -----------------------------------------------------------
-   NAVBAR
------------------------------------------------------------ */
-
-.navbar,
-.navbar-custom {
+/* Navbar */
+.dark-mode .navbar,
+.dark-mode .navbar-custom {
   background-color: var(--navbar-bg) !important;
   color: var(--navbar-text) !important;
-  transition: background-color 0.25s ease, color 0.25s ease;
 }
 
-.navbar a,
-.navbar-brand,
-.nav-link {
+.dark-mode .navbar a,
+.dark-mode .navbar-brand,
+.dark-mode .nav-link {
   color: var(--navbar-text) !important;
 }
 
-/* -----------------------------------------------------------
-   CARDS / POSTS / CONTENT BLOCKS
------------------------------------------------------------ */
-
-.card,
-.post-preview,
-.well,
-pre,
-code {
+/* Cards, posts, code blocks */
+.dark-mode .card,
+.dark-mode .post-preview,
+.dark-mode .well,
+.dark-mode pre,
+.dark-mode code {
   background-color: var(--card-bg) !important;
   border-color: var(--card-border) !important;
   color: var(--text-color) !important;
@@ -67,31 +59,4 @@ code {
 ----------------------------------------------------------- */
 
 #theme-toggle {
-  border: none !important;
-  background: none !important;
-  box-shadow: none !important;
-  outline: none !important;
-  padding: 0 !important;
-  margin-left: 1rem;
-  cursor: pointer;
-}
-
-#theme-toggle:hover,
-#theme-toggle:focus {
-  border: none !important;
-  background: none !important;
-  box-shadow: none !important;
-  outline: none !important;
-}
-
-#theme-toggle i {
-  font-size: 1.25rem;
-  color: var(--navbar-text) !important;
-  transition: color 0.25s ease;
-}
-
-#theme-toggle i {
-  font-size: 0.9rem !important;   /* smaller than before */
-  line-height: 1 !important;
-}
-
+  border: none !
