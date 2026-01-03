@@ -2,30 +2,20 @@
    THEME VARIABLES
 ----------------------------------------------------------- */
 
-/* Light mode (default) */
-:root {
-  --bg-color: #fdfdfd;        /* softer than pure white */
-  --text-color: #333333;      /* Beautiful Jekyll default */
-  --link-color: #268bd2;      /* original theme blue */
-  --navbar-bg: #ffffff;
-  --navbar-text: #333333;
+/* Light mode uses Beautiful Jekyll defaults — no overrides */
 
-  --card-bg: #ffffff;
-  --card-border: #e5e5e5;
-}
-
-/* Dark mode overrides */
+/* Dark mode only */
 .dark-mode {
   --bg-color: #1e1e1e;
   --text-color: #e0e0e0;
   --link-color: #66aaff;
-
   --navbar-bg: #2a2a2a;
   --navbar-text: #e0e0e0;
 
   --card-bg: #2a2a2a;
   --card-border: #444444;
 }
+
 
 /* -----------------------------------------------------------
    GLOBAL OVERRIDES (force Beautiful Jekyll to obey variables)
