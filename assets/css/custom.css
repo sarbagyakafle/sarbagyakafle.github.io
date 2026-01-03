@@ -86,3 +86,8 @@
   line-height: 1 !important;
 }
 
+#theme-toggle {
+  margin-left: 0.5rem;
+  padding: 0 !important;
+}
+
