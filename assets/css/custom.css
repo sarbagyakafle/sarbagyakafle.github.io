@@ -40,3 +40,19 @@ body, .navbar {
   transition: background-color 0.25s ease, color 0.25s ease;
 }
 
+#theme-toggle {
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+  padding: 0;
+}
+
+#theme-toggle:hover,
+#theme-toggle:focus {
+  border: none !important;
+  background: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
