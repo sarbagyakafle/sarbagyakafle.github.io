@@ -22,7 +22,7 @@ author: Sarbagya Kafle
 navbar-links:
   About Me: "aboutme"
   CV: "cv"
-  Teaching: "teaching"
+  #Teaching: "teaching"
   Wordplay: "wordplay"
 
 ################
