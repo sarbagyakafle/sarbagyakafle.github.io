@@ -56,3 +56,19 @@ body, .navbar {
   outline: none !important;
 }
 
+html, body {
+  background-color: var(--bg-color) !important;
+  color: var(--text-color) !important;
+}
+
+.navbar,
+.navbar-custom {
+  background-color: var(--navbar-bg) !important;
+  color: var(--navbar-text) !important;
+}
+
+.navbar a,
+.navbar-brand,
+.nav-link {
+  color: var(--navbar-text) !important;
+}
