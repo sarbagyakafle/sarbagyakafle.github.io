@@ -11,7 +11,7 @@
   --navbar-bg: #2a2a2a;
   --navbar-text: #e0e0e0;
 
-  --card-bg: #2a2a2a;
+  --card-bg: #1e1e1e;
   --card-border: #444444;
 }
 
@@ -26,9 +26,9 @@
   transition: background-color 0.25s ease, color 0.25s ease;
 }
 
-/* Links */
+/* Links: light gray normally, blue on hover */
 .dark-mode a {
-  color: var(--text-color) !important;
+  color: #0085a1 !important; /* Beautiful Jekyll blue */
 }
 
 .dark-mode a:hover,
@@ -63,6 +63,8 @@
   color: var(--text-color) !important;
   box-shadow: none !important;
 }
+
+
 
 /* -----------------------------------------------------------
    FOOTER (Dark Mode)
