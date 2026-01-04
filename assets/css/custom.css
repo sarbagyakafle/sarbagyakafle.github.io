@@ -48,6 +48,13 @@
   color: var(--navbar-text) !important;
 }
 
+/* Restore Beautiful Jekyll hover color for navbar links in dark mode */
+.dark-mode .navbar a:hover,
+.dark-mode .nav-link:hover,
+.dark-mode .navbar-brand:hover {
+  color: #0085a1 !important; /* Beautiful Jekyll blue */
+}
+
 /* Cards, posts, code blocks */
 .dark-mode .card,
 .dark-mode .post-preview,
