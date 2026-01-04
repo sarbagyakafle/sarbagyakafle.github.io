@@ -77,10 +77,14 @@
   box-shadow: none !important;
 }
 
-/* Brighten the "Tags:" label in dark mode */
-.dark-mode .post-meta {
-  color: #e0e0e0 !important;   /* same as your main text color */
+/* Force-brighten the "Tags:" label in dark mode */
+.dark-mode .post-preview .post-meta,
+.dark-mode .post-meta,
+.dark-mode .post-meta span,
+.dark-mode .post-meta small {
+  color: #e0e0e0 !important;
 }
+
 
 /* -----------------------------------------------------------
    FOOTER (Dark Mode)
