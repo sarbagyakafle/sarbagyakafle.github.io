@@ -16,7 +16,7 @@
 }
 
 /* -----------------------------------------------------------
-   DARK MODE GLOBAL OVERRIDES
+   GLOBAL DARK MODE OVERRIDES
 ----------------------------------------------------------- */
 
 .dark-mode html,
@@ -26,8 +26,15 @@
   transition: background-color 0.25s ease, color 0.25s ease;
 }
 
+/* Links */
 .dark-mode a {
-  color: var(--link-color) !important;
+  color: var(--text-color) !important;
+}
+
+.dark-mode a:hover,
+.dark-mode .post-title:hover,
+.dark-mode .post-preview .post-title:hover {
+  color: #0085a1 !important; /* Beautiful Jekyll blue */
 }
 
 /* Navbar */
@@ -48,28 +55,41 @@
 .dark-mode .post-preview,
 .dark-mode .well,
 .dark-mode pre,
-.dark-mode code {
+.dark-mode code,
+.dark-mode .post,
+.dark-mode .post-content {
   background-color: var(--card-bg) !important;
   border-color: var(--card-border) !important;
   color: var(--text-color) !important;
+  box-shadow: none !important;
 }
 
-/* Dark mode link color (default = light text, hover = blue) */
-.dark-mode a {
-  color: var(--text-color) !important;   /* light gray / white */
+/* -----------------------------------------------------------
+   FOOTER (Dark Mode)
+----------------------------------------------------------- */
+
+.dark-mode footer,
+.dark-mode .footer,
+.dark-mode .site-footer {
+  background-color: #2a2a2a !important;
+  color: #cccccc !important;
+  border-top: none !important;
 }
 
-.dark-mode a:hover,
-.dark-mode .post-preview .post-title:hover,
-.dark-mode .post-title:hover {
-  color: #0085a1 !important;             /* Beautiful Jekyll blue */
+.dark-mode .footer a,
+.dark-mode .site-footer a {
+  color: #cccccc !important;
 }
 
+.dark-mode .footer a:hover,
+.dark-mode .site-footer a:hover {
+  color: #0085a1 !important;
+}
 
 /* -----------------------------------------------------------
    THEME TOGGLE BUTTON
 ----------------------------------------------------------- */
-/* Remove outline, border, and background from the theme toggle button */
+
 #theme-toggle,
 #theme-toggle:focus,
 #theme-toggle:hover,
@@ -80,7 +100,6 @@
   outline: none !important;
 }
 
-/* Adjust icon size to match navbar text */
 #theme-toggle i {
   font-size: 0.95rem !important;
   line-height: 1 !important;
@@ -90,88 +109,3 @@
   padding: 0 !important;
   margin-right: 0.5rem !important;
 }
-
-
-/* -----------------------------------------------------------
-   MATCH BEAUTIFUL JEKYLL DARK MODE EXACTLY
------------------------------------------------------------ */
-
-/* 1. Uniform dark background everywhere */
-.dark-mode html,
-.dark-mode body {
-  background-color: #1e1e1e !important;
-  color: #e0e0e0 !important;
-}
-
-/* 2. Post preview area should NOT be lighter */
-.dark-mode .post-preview,
-.dark-mode .post-preview:hover {
-  background-color: #1e1e1e !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-
-/* 3. Remove card/well backgrounds */
-.dark-mode .card,
-.dark-mode .well,
-.dark-mode .post,
-.dark-mode .post-content {
-  background-color: #1e1e1e !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-
-/* 4. Make all text light gray */
-.dark-mode .post-title,
-.dark-mode .post-meta,
-.dark-mode p,
-.dark-mode li,
-.dark-mode span,
-.dark-mode div {
-  color: #e0e0e0 !important;
-}
-
-/* 5. Links: light gray normally, blue on hover */
-.dark-mode a {
-  color: #e0e0e0 !important;
-}
-
-.dark-mode a:hover,
-.dark-mode .post-title:hover {
-  color: #0085a1 !important; /* Beautiful Jekyll blue */
-}
-
-
-/* Match Beautiful Jekyll's slightly lighter footer in dark mode */
-.dark-mode footer,
-.dark-mode .footer,
-.dark-mode .site-footer {
-  background-color: #2a2a2a !important; /* slightly lighter than main bg */
-  color: #cccccc !important;
-  border-top: none !important;
-}
-
-/* Footer links */
-.dark-mode .footer a,
-.dark-mode .site-footer a {
-  color: #cccccc !important;
-}
-
-.dark-mode .footer a:hover,
-.dark-mode .site-footer a:hover {
-  color: #0085a1 !important; /* Beautiful Jekyll blue */
-}
-
-
-
-/* Fix footer icons in dark mode to match original Beautiful Jekyll */
-html[data-theme="dark"] .footer a,
-html[data-theme="dark"] .footer a:visited {
-  color: #ffffff !important;   /* pure white icons */
-}
-
-html[data-theme="dark"] .footer a:hover {
-  color: #ffffff !important;   /* stay white on hover */
-  opacity: 0.8;                /* slight dim like original */
-}
-
