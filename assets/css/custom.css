@@ -162,3 +162,16 @@
   color: #0085a1 !important; /* Beautiful Jekyll blue */
 }
 
+
+
+/* Fix footer icons in dark mode to match original Beautiful Jekyll */
+html[data-theme="dark"] .footer a,
+html[data-theme="dark"] .footer a:visited {
+  color: #ffffff !important;   /* pure white icons */
+}
+
+html[data-theme="dark"] .footer a:hover {
+  color: #ffffff !important;   /* stay white on hover */
+  opacity: 0.8;                /* slight dim like original */
+}
+
