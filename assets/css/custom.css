@@ -2,7 +2,6 @@
    DARK MODE VARIABLES
    Light mode uses Beautiful Jekyll defaults (no overrides)
 ----------------------------------------------------------- */
-
 .dark-mode {
   --bg-color: #1e1e1e;
   --text-color: #e0e0e0;
@@ -18,7 +17,6 @@
 /* -----------------------------------------------------------
    GLOBAL DARK MODE OVERRIDES
 ----------------------------------------------------------- */
-
 .dark-mode html,
 .dark-mode body {
   background-color: var(--bg-color) !important;
