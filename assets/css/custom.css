@@ -26,9 +26,9 @@
   transition: background-color 0.25s ease, color 0.25s ease;
 }
 
-/* Links: light gray normally, blue on hover */
+/* Links */
 .dark-mode a {
-  color: #0085a1 !important; /* Beautiful Jekyll blue */
+  color: var(--text-color) !important;
 }
 
 .dark-mode a:hover,
@@ -63,8 +63,6 @@
   color: var(--text-color) !important;
   box-shadow: none !important;
 }
-
-
 
 /* -----------------------------------------------------------
    FOOTER (Dark Mode)
