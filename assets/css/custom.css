@@ -64,6 +64,14 @@
   box-shadow: none !important;
 }
 
+/* Post preview area should NOT be lighter */
+.dark-mode .post-preview,
+.dark-mode .post-preview:hover {
+  background-color: #1e1e1e !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
 /* -----------------------------------------------------------
    FOOTER (Dark Mode)
 ----------------------------------------------------------- */
